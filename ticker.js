@@ -12,6 +12,8 @@
   const TEXT = document.getElementById("ticker-text");
   const DISMISS = document.getElementById("ticker-dismiss");
   if (!TEXT || !DISMISS) return;
+  const ANNOUNCER = document.getElementById("ticker-announcer");
+  const PAUSE_BTN = document.getElementById("ticker-pause");
 
   const DISMISS_KEY = "trackfans:ticker-dismissed";
   const POLL_MS = 600000;            // 10 minutes
@@ -224,6 +226,9 @@
     }
     const live = findLiveSession(nextRace, now());
     if (live) {
+      if (currentMode !== "live" && ANNOUNCER) {
+        ANNOUNCER.textContent = `${live.label} is live.`;
+      }
       currentMode = "live";
       renderLive(live.label);
     } else {
@@ -311,6 +316,13 @@
       return;
     }
     DISMISS.addEventListener("click", onDismiss);
+    if (PAUSE_BTN) {
+      PAUSE_BTN.addEventListener("click", () => {
+        const paused = STRIP.classList.toggle("is-paused");
+        PAUSE_BTN.setAttribute("aria-pressed", String(paused));
+        PAUSE_BTN.setAttribute("aria-label", paused ? "Resume race ticker" : "Pause race ticker");
+      });
+    }
     document.addEventListener("visibilitychange", onVisibility);
     startTimers();
     poll();

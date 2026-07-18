@@ -17,9 +17,11 @@
       <div class="ticker__inner">
         <span class="ticker__dot" aria-hidden="true"></span>
         <span class="ticker__text" id="ticker-text"></span>
+        <button class="ticker__pause" type="button" id="ticker-pause" aria-pressed="false" aria-label="Pause race ticker">❚❚</button>
         <button class="ticker__close" type="button" id="ticker-dismiss" aria-label="Dismiss race ticker">×</button>
       </div>
     </div>
+    <span id="ticker-announcer" class="sr-only" aria-live="polite" aria-atomic="true"></span>
 
     <header class="hero">
       <div class="hero__grid" aria-hidden="true"></div>
@@ -77,14 +79,14 @@
             <thead>
               <tr>
                 <th scope="col" aria-sort="ascending"><button type="button" data-sort="name" aria-label="Sort by track name">Track <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="status" aria-label="Sort by circuit status">Status <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="first_gp_year" aria-label="Sort by first Grand Prix year">First GP <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="grands_prix_held" aria-label="Sort by Grands Prix held">GPs <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="length_km" aria-label="Sort by circuit length">Length km <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="corners" aria-label="Sort by corner count">Corners <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="top_speed_kmh" aria-label="Sort by top speed">Top speed <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="elevation_change_m" aria-label="Sort by elevation change">Elev. m <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="area_acres" aria-label="Sort by area in acres">Area acres <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="status" aria-label="Sort by circuit status">Status <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="first_gp_year" aria-label="Sort by first Grand Prix year">First GP <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="grands_prix_held" aria-label="Sort by Grands Prix held">GPs <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="length_km" aria-label="Sort by circuit length">Length km <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="corners" aria-label="Sort by corner count">Corners <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="top_speed_kmh" aria-label="Sort by top speed">Top speed <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="elevation_change_m" aria-label="Sort by elevation change">Elev. m <span aria-hidden="true"></span></button></th>
+                <th scope="col"><button type="button" data-sort="area_acres" aria-label="Sort by area in acres">Area acres <span aria-hidden="true"></span></button></th>
               </tr>
             </thead>
             <tbody id="track-rows"></tbody>

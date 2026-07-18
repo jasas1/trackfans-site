@@ -29,12 +29,12 @@ const chipsGroup = document.querySelector(".chips");
 const atlasTheadHTML = theadEl.innerHTML;
 
 const seasonTheadHTML = `<tr>
-                <th scope="col" aria-sort="none">Rd</th>
-                <th scope="col" aria-sort="none">Grand Prix</th>
-                <th scope="col" aria-sort="none">Track</th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="length_km" aria-label="Sort by circuit length" aria-disabled="true">Length km <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="corners" aria-label="Sort by corner count" aria-disabled="true">Corners <span aria-hidden="true"></span></button></th>
-                <th scope="col" aria-sort="none"><button type="button" data-sort="top_speed_kmh" aria-label="Sort by top speed" aria-disabled="true">Top speed <span aria-hidden="true"></span></button></th>
+                <th scope="col">Rd</th>
+                <th scope="col">Grand Prix</th>
+                <th scope="col">Track</th>
+                <th scope="col">Length km</th>
+                <th scope="col">Corners</th>
+                <th scope="col">Top speed</th>
               </tr>`;
 
 const numericKeys = new Set([
@@ -153,7 +153,7 @@ function renderTable() {
   }
   const rows = currentRows();
   rowsEl.innerHTML = rows.map((track) => `
-    <tr tabindex="0" data-id="${escapeHtml(track.id)}" aria-label="Open details for ${escapeHtml(track.name)}">
+    <tr tabindex="0" role="button" data-id="${escapeHtml(track.id)}" aria-label="Open details for ${escapeHtml(track.name)}">
       <td data-label="Track">
         ${trackCellHtml(track)}
       </td>
@@ -190,7 +190,7 @@ function renderSeasonTable() {
     .map(({ race, track }) => {
       const label = `Open details for ${escapeHtml(race.gp_name)} at ${escapeHtml(track ? track.name : race.circuit_id)}`;
       return `
-    <tr tabindex="0" data-id="${escapeHtml(race.circuit_id)}" aria-label="${label}">
+    <tr tabindex="0" role="button" data-id="${escapeHtml(race.circuit_id)}" aria-label="${label}">
       <td data-label="Rd">${formatValue(race.round)}</td>
       <td data-label="Grand Prix"><div class="gp-cell"><strong>${escapeHtml(race.gp_name)}</strong><span class="gp-date">${escapeHtml(race.date || dash)}</span></div></td>
       <td data-label="Track">${track ? trackCellHtml(track) : escapeHtml(race.circuit_id)}</td>
@@ -209,7 +209,11 @@ function updateSortHeaders() {
     const button = th.querySelector("button[data-sort]");
     const indicator = button?.querySelector("span");
     const active = !inSeason && button?.dataset.sort === state.sortKey;
-    th.setAttribute("aria-sort", active ? (state.sortDir === "asc" ? "ascending" : "descending") : "none");
+    if (active) {
+      th.setAttribute("aria-sort", state.sortDir === "asc" ? "ascending" : "descending");
+    } else {
+      th.removeAttribute("aria-sort");
+    }
     if (indicator) indicator.textContent = active ? (state.sortDir === "asc" ? "▲" : "▼") : "";
   });
 }
@@ -369,7 +373,12 @@ function openDetail(id) {
   renderDetail(track);
   modal.hidden = false;
   document.body.classList.add("has-modal");
-  modalPanel.focus();
+  const nodes = focusableElements();
+  if (nodes.length) {
+    nodes[0].focus();
+  } else {
+    modalPanel.focus();
+  }
 }
 
 function closeDetail() {
@@ -422,7 +431,7 @@ rowsEl.addEventListener("click", (event) => {
 rowsEl.addEventListener("keydown", (event) => {
   const row = event.target.closest("tr[data-id]");
   if (!row) return;
-  if (event.key === "Enter") {
+  if (event.key === "Enter" || event.key === " ") {
     event.preventDefault();
     openDetail(row.dataset.id);
   }
@@ -444,7 +453,13 @@ document.addEventListener("keydown", (event) => {
   if (!nodes.length) return;
   const first = nodes[0];
   const last = nodes[nodes.length - 1];
-  if (event.shiftKey && document.activeElement === first) {
+  if (document.activeElement === modalPanel && event.shiftKey) {
+    event.preventDefault();
+    last.focus();
+  } else if (document.activeElement === modalPanel) {
+    event.preventDefault();
+    first.focus();
+  } else if (event.shiftKey && document.activeElement === first) {
     event.preventDefault();
     last.focus();
   } else if (!event.shiftKey && document.activeElement === last) {
