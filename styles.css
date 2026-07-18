@@ -70,7 +70,9 @@ input {
 
 .hero {
   position: relative;
-  min-height: 76vh;
+  /* Scales with viewport but capped: uncapped vh left a void between the
+     ticker and the masthead on tall/narrow windows. */
+  min-height: clamp(440px, 66vh, 780px);
   display: grid;
   align-items: end;
   overflow: hidden;
