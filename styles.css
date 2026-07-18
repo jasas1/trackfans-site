@@ -111,6 +111,18 @@ input {
   padding: 5rem 0 4rem;
 }
 
+/* Narrow screens: the headline wraps tall, so let content set the hero's
+   height instead of a viewport-derived minimum that leaves a void on top. */
+@media (max-width: 900px) {
+  .hero {
+    min-height: 0;
+  }
+
+  .hero__content {
+    padding: 2.75rem 0 2.5rem;
+  }
+}
+
 .brand {
   margin: 0 0 1.5rem;
   color: var(--red);
@@ -605,7 +617,8 @@ figcaption,
 
 @media (max-width: 760px) {
   .hero {
-    min-height: 68vh;
+    /* content-sized; a vh minimum leaves a void above the masthead */
+    min-height: 0;
   }
 
   .controls {
