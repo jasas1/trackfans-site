@@ -263,8 +263,22 @@ input[type="search"] {
   color: var(--muted);
 }
 
+/* No overflow on desktop: an overflow container would become the sticky
+   scrollport and pin the header INSIDE the table instead of below the
+   controls bar. Horizontal scrolling only exists at widths where the
+   table can actually overflow (see media query below). */
 .table-scroll {
-  overflow-x: auto;
+  overflow: visible;
+}
+
+@media (max-width: 1180px) and (min-width: 641px) {
+  .table-scroll {
+    overflow-x: auto;
+  }
+
+  .table-scroll th {
+    position: static;
+  }
 }
 
 table {
@@ -291,7 +305,7 @@ td {
 
 th {
   position: sticky;
-  top: 82px;
+  top: var(--controls-h, 82px);
   z-index: 2;
   background: #151820;
   color: var(--muted);

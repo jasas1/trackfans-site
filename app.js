@@ -458,7 +458,16 @@ function renderStats() {
   document.querySelector("#stat-countries").textContent = new Set(tracks.map((track) => track.country)).size;
 }
 
+function syncControlsHeight() {
+  const controls = document.querySelector(".controls");
+  if (controls) {
+    document.documentElement.style.setProperty("--controls-h", `${controls.offsetHeight}px`);
+  }
+}
+new ResizeObserver(syncControlsHeight).observe(document.querySelector(".controls"));
+
 populateSeasonYears();
 renderStats();
 updateSortHeaders();
 renderTable();
+syncControlsHeight();
