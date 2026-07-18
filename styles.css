@@ -751,3 +751,88 @@ figcaption,
     animation: none !important;
   }
 }
+
+.view-switch {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.view-toggle {
+  border-radius: 4px;
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.view-toggle.is-active {
+  border-color: var(--gold);
+  background: var(--gold);
+  color: var(--bg);
+}
+
+.season-year-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.season-year-wrap[hidden],
+.chips[hidden] {
+  display: none;
+}
+
+.season-year-label {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+#season-year {
+  min-width: 6rem;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  background: #0f1115;
+  color: var(--ink);
+  padding: 0.55rem 0.7rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#season-year:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+th button[aria-disabled="true"] {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+table.is-season {
+  min-width: 760px;
+}
+
+.gp-cell strong {
+  display: block;
+  line-height: 1.2;
+}
+
+.gp-cell .gp-date {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+@media (max-width: 640px) {
+  .view-switch {
+    width: 100%;
+  }
+
+  #season-year {
+    flex: 1 1 auto;
+  }
+}

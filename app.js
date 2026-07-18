@@ -1,4 +1,5 @@
 const tracks = Array.isArray(window.TRACKFANS_TRACKS) ? window.TRACKFANS_TRACKS : [];
+const seasonData = typeof SEASONS === "object" ? SEASONS : {};
 
 const state = {
   query: "",
@@ -6,6 +7,8 @@ const state = {
   sortKey: "name",
   sortDir: "asc",
   lastFocus: null,
+  view: "atlas",
+  seasonYear: "2026",
 };
 
 const rowsEl = document.querySelector("#track-rows");
@@ -16,6 +19,23 @@ const modalPanel = modal.querySelector(".modal__panel");
 const detailEl = document.querySelector("#detail-content");
 const closeSelectors = "[data-close]";
 const dash = "—";
+
+const theadEl = document.querySelector("thead");
+const tableEl = document.querySelector("table");
+const seasonToggle = document.querySelector("#season-toggle");
+const yearSelect = document.querySelector("#season-year");
+const yearWrap = document.querySelector(".season-year-wrap");
+const chipsGroup = document.querySelector(".chips");
+const atlasTheadHTML = theadEl.innerHTML;
+
+const seasonTheadHTML = `<tr>
+                <th scope="col" aria-sort="none">Rd</th>
+                <th scope="col" aria-sort="none">Grand Prix</th>
+                <th scope="col" aria-sort="none">Track</th>
+                <th scope="col" aria-sort="none"><button type="button" data-sort="length_km" aria-label="Sort by circuit length" aria-disabled="true">Length km <span aria-hidden="true"></span></button></th>
+                <th scope="col" aria-sort="none"><button type="button" data-sort="corners" aria-label="Sort by corner count" aria-disabled="true">Corners <span aria-hidden="true"></span></button></th>
+                <th scope="col" aria-sort="none"><button type="button" data-sort="top_speed_kmh" aria-label="Sort by top speed" aria-disabled="true">Top speed <span aria-hidden="true"></span></button></th>
+              </tr>`;
 
 const numericKeys = new Set([
   "first_gp_year",
@@ -116,18 +136,26 @@ function currentRows() {
     .sort(compareTracks);
 }
 
-function renderTable() {
-  const rows = currentRows();
-  rowsEl.innerHTML = rows.map((track) => `
-    <tr tabindex="0" data-id="${escapeHtml(track.id)}" aria-label="Open details for ${escapeHtml(track.name)}">
-      <td data-label="Track">
-        <div class="track-cell">
+function trackCellHtml(track) {
+  return `<div class="track-cell">
           ${outlineSvg(track)}
           <div>
             <strong>${escapeHtml(track.name)}</strong>
             <span>${escapeHtml(track.flag)} ${escapeHtml(track.country)}</span>
           </div>
-        </div>
+        </div>`;
+}
+
+function renderTable() {
+  if (state.view === "season") {
+    renderSeasonTable();
+    return;
+  }
+  const rows = currentRows();
+  rowsEl.innerHTML = rows.map((track) => `
+    <tr tabindex="0" data-id="${escapeHtml(track.id)}" aria-label="Open details for ${escapeHtml(track.name)}">
+      <td data-label="Track">
+        ${trackCellHtml(track)}
       </td>
       <td data-label="Status">${statusBadge(track.status)}</td>
       <td data-label="First GP">${formatYear(track.first_gp_year)}</td>
@@ -142,11 +170,45 @@ function renderTable() {
   countEl.textContent = `${rows.length} ${rows.length === 1 ? "circuit" : "circuits"} shown`;
 }
 
+function renderSeasonTable() {
+  const year = state.seasonYear;
+  const races = (seasonData[year] || []).slice().sort((a, b) => a.round - b.round);
+  const query = state.query.trim().toLowerCase();
+  const enriched = races.map((race) => ({
+    race,
+    track: tracks.find((t) => t.id === race.circuit_id),
+  }));
+  const rows = enriched.filter(({ race, track }) => {
+    if (!query) return true;
+    return [race.gp_name, track?.name, track?.country]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase()
+      .includes(query);
+  });
+  rowsEl.innerHTML = rows
+    .map(({ race, track }) => {
+      const label = `Open details for ${escapeHtml(race.gp_name)} at ${escapeHtml(track ? track.name : race.circuit_id)}`;
+      return `
+    <tr tabindex="0" data-id="${escapeHtml(race.circuit_id)}" aria-label="${label}">
+      <td data-label="Rd">${formatValue(race.round)}</td>
+      <td data-label="Grand Prix"><div class="gp-cell"><strong>${escapeHtml(race.gp_name)}</strong><span class="gp-date">${escapeHtml(race.date || dash)}</span></div></td>
+      <td data-label="Track">${track ? trackCellHtml(track) : escapeHtml(race.circuit_id)}</td>
+      <td data-label="Length km">${track ? formatValue(track.length_km, 3) : dash}</td>
+      <td data-label="Corners">${track ? formatValue(track.corners) : dash}</td>
+      <td data-label="Top speed km/h">${track ? formatValue(track.top_speed_kmh, 1) : dash}</td>
+    </tr>`;
+    })
+    .join("");
+  countEl.textContent = `${rows.length} ${rows.length === 1 ? "race" : "races"} - ${year} season`;
+}
+
 function updateSortHeaders() {
+  const inSeason = state.view === "season";
   document.querySelectorAll("th").forEach((th) => {
     const button = th.querySelector("button[data-sort]");
     const indicator = button?.querySelector("span");
-    const active = button?.dataset.sort === state.sortKey;
+    const active = !inSeason && button?.dataset.sort === state.sortKey;
     th.setAttribute("aria-sort", active ? (state.sortDir === "asc" ? "ascending" : "descending") : "none");
     if (indicator) indicator.textContent = active ? (state.sortDir === "asc" ? "▲" : "▼") : "";
   });
@@ -157,6 +219,40 @@ function setSort(key) {
     state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
   } else {
     state.sortKey = key;
+    state.sortDir = "asc";
+  }
+  updateSortHeaders();
+  renderTable();
+}
+
+function populateSeasonYears() {
+  const years = Object.keys(seasonData).sort((a, b) => Number(b) - Number(a));
+  yearSelect.innerHTML = years
+    .map((y) => `<option value="${escapeHtml(y)}">${escapeHtml(y)}</option>`)
+    .join("");
+  if (years.includes("2026")) {
+    yearSelect.value = "2026";
+  } else if (years.length) {
+    yearSelect.value = years[0];
+  }
+  state.seasonYear = yearSelect.value;
+}
+
+function setView(mode) {
+  if (mode === state.view) return;
+  state.view = mode;
+  const season = mode === "season";
+  seasonToggle.setAttribute("aria-pressed", String(season));
+  seasonToggle.classList.toggle("is-active", season);
+  yearWrap.hidden = !season;
+  chipsGroup.hidden = season;
+  tableEl.classList.toggle("is-season", season);
+  if (season) {
+    theadEl.innerHTML = seasonTheadHTML;
+    if (yearSelect.value) state.seasonYear = yearSelect.value;
+  } else {
+    theadEl.innerHTML = atlasTheadHTML;
+    state.sortKey = "name";
     state.sortDir = "asc";
   }
   updateSortHeaders();
@@ -285,8 +381,11 @@ function closeDetail() {
   }
 }
 
-document.querySelectorAll("button[data-sort]").forEach((button) => {
-  button.addEventListener("click", () => setSort(button.dataset.sort));
+theadEl.addEventListener("click", (event) => {
+  const button = event.target.closest("button[data-sort]");
+  if (!button) return;
+  if (button.getAttribute("aria-disabled") === "true") return;
+  setSort(button.dataset.sort);
 });
 
 searchEl.addEventListener("input", (event) => {
@@ -294,16 +393,25 @@ searchEl.addEventListener("input", (event) => {
   renderTable();
 });
 
-document.querySelectorAll(".chip").forEach((button) => {
+document.querySelectorAll(".chip[data-status]").forEach((button) => {
   button.addEventListener("click", () => {
     state.status = button.dataset.status;
-    document.querySelectorAll(".chip").forEach((chip) => {
+    document.querySelectorAll(".chip[data-status]").forEach((chip) => {
       const active = chip === button;
       chip.classList.toggle("is-active", active);
       chip.setAttribute("aria-pressed", String(active));
     });
     renderTable();
   });
+});
+
+seasonToggle.addEventListener("click", () => {
+  setView(state.view === "season" ? "atlas" : "season");
+});
+
+yearSelect.addEventListener("change", () => {
+  state.seasonYear = yearSelect.value;
+  renderTable();
 });
 
 rowsEl.addEventListener("click", (event) => {
@@ -350,6 +458,7 @@ function renderStats() {
   document.querySelector("#stat-countries").textContent = new Set(tracks.map((track) => track.country)).size;
 }
 
+populateSeasonYears();
 renderStats();
 updateSortHeaders();
 renderTable();

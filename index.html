@@ -46,6 +46,13 @@
           <button class="chip" type="button" data-status="current" aria-label="Show current circuits" aria-pressed="false">Current</button>
           <button class="chip" type="button" data-status="historical" aria-label="Show historical circuits" aria-pressed="false">Historical</button>
         </div>
+        <div class="view-switch" role="group" aria-label="View mode">
+          <button class="chip view-toggle" type="button" id="season-toggle" aria-pressed="false">Season view</button>
+          <label class="season-year-wrap" for="season-year" hidden>
+            <span class="season-year-label">Season</span>
+            <select id="season-year"></select>
+          </label>
+        </div>
       </section>
 
       <section class="table-shell" aria-labelledby="table-title">
@@ -87,6 +94,7 @@
 
     <script src="./tracks.js"></script>
     <script src="./world.js"></script>
+    <script src="./seasons.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
