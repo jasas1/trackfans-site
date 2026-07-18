@@ -12,6 +12,15 @@
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="ticker" id="race-ticker" role="status" aria-live="off" hidden>
+      <div class="ticker__inner">
+        <span class="ticker__dot" aria-hidden="true"></span>
+        <span class="ticker__text" id="ticker-text"></span>
+        <button class="ticker__close" type="button" id="ticker-dismiss" aria-label="Dismiss race ticker">×</button>
+      </div>
+    </div>
+
     <header class="hero">
       <div class="hero__grid" aria-hidden="true"></div>
       <div class="hero__content">
@@ -95,6 +104,7 @@
     <script src="./tracks.js"></script>
     <script src="./world.js"></script>
     <script src="./seasons.js"></script>
+    <script src="./ticker.js" defer></script>
     <script src="./app.js"></script>
   </body>
 </html>

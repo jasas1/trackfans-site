@@ -850,3 +850,150 @@ table.is-season {
     flex: 1 1 auto;
   }
 }
+
+/* ─────────────────────────  race ticker  ─────────────────────────
+   Thin, static (scrolls-away) strip above the hero. position: relative
+   so it never offsets the sticky controls/table-header stack. */
+
+.ticker {
+  position: relative;
+  z-index: 4;
+  background: var(--panel);
+  border-bottom: 1px solid var(--red);
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.ticker[hidden] {
+  display: none;
+}
+
+.ticker__inner {
+  position: relative;
+  width: min(1440px, 100%);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.7rem 1rem;
+  min-height: 36px;
+}
+
+.ticker__dot {
+  flex: 0 0 auto;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--red);
+  box-shadow: 0 0 0 0 rgba(225, 6, 0, 0.6);
+}
+
+.ticker.is-live .ticker__dot {
+  animation: ticker-pulse 1.4s ease-out infinite;
+}
+
+@keyframes ticker-pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(225, 6, 0, 0.7); }
+  70%  { box-shadow: 0 0 0 10px rgba(225, 6, 0, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(225, 6, 0, 0); }
+}
+
+.ticker__text {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.ticker__track {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.ticker__seg {
+  display: inline-block;
+  white-space: nowrap;
+  padding-right: 3rem;
+}
+
+.ticker__seg + .ticker__seg {
+  display: none;
+}
+
+.ticker__sep {
+  color: var(--subtle);
+  margin: 0 0.35rem;
+}
+
+.ticker__count {
+  color: var(--ink);
+}
+
+.ticker__sub {
+  color: var(--muted);
+}
+
+.ticker__live-link {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--red);
+  text-underline-offset: 0.2em;
+}
+
+.ticker__close {
+  flex: 0 0 auto;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 1.05rem;
+  line-height: 1;
+  width: 1.7rem;
+  height: 1.7rem;
+  border-radius: 3px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ticker__close:hover {
+  color: var(--ink);
+}
+
+.ticker__close:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* Marquee only on small screens AND only when the visitor is OK with motion.
+   Desktop (>=768px) and reduced-motion users get a static truncating line. */
+@media (max-width: 767px) and (prefers-reduced-motion: no-preference) {
+  .ticker__text {
+    text-overflow: clip;
+  }
+
+  .ticker__seg + .ticker__seg {
+    display: inline-block;
+  }
+
+  .ticker__track {
+    animation: ticker-marquee 18s linear infinite;
+  }
+
+  @keyframes ticker-marquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker.is-live .ticker__dot,
+  .ticker__track {
+    animation: none !important;
+  }
+}
