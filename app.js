@@ -172,6 +172,19 @@ function satelliteUrl(track) {
   return `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${bbox}&bboxSR=4326&size=800,500&format=jpg&f=image`;
 }
 
+function worldInset(track) {
+  const lat = track.location?.lat;
+  const lon = track.location?.lon;
+  const label = `Location: ${escapeHtml(track.region || track.country || track.name)}`;
+  const landPath = typeof WORLD_LAND_PATH === "string" ? WORLD_LAND_PATH : "";
+  if (typeof lat !== "number" || typeof lon !== "number") {
+    return `<svg class="world-inset" viewBox="0 0 1000 500" role="img" aria-label="${label}"><path d="${escapeHtml(landPath)}" class="world-inset__land"/></svg>`;
+  }
+  const cx = ((lon + 180) / 360) * 1000;
+  const cy = ((90 - lat) / 180) * 500;
+  return `<svg class="world-inset" viewBox="0 0 1000 500" role="img" aria-label="${label}"><path d="${escapeHtml(landPath)}" class="world-inset__land"/><circle class="world-inset__pulse" cx="${cx}" cy="${cy}" r="15"/><circle class="world-inset__dot" cx="${cx}" cy="${cy}" r="7"/></svg>`;
+}
+
 function detailStat(label, value) {
   return `<div class="detail-stat"><dt>${escapeHtml(label)}</dt><dd>${value}</dd></div>`;
 }
@@ -210,6 +223,7 @@ function renderDetail(track) {
         <p>${escapeHtml(track.flag)} ${escapeHtml(track.country)} / ${escapeHtml(track.region || "")}</p>
         <h2 id="modal-title">${escapeHtml(track.name)}</h2>
         <div class="detail-badges">${statusBadge(track.status)}<span>${escapeHtml(track.circuit_type || "circuit")}</span><span>${escapeHtml(track.direction || "unknown")}</span></div>
+        ${worldInset(track)}
       </div>
       ${outlineSvg(track, "outline-large")}
     </header>

@@ -714,3 +714,40 @@ figcaption,
   border-radius: 999px;
   background: transparent;
 }
+
+.world-inset {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  margin-top: 1rem;
+  aspect-ratio: 2 / 1;
+  border: 1px solid var(--line);
+  background: #07080a;
+}
+
+.world-inset__land {
+  fill: #2a2e36;
+  stroke: none;
+}
+
+.world-inset__pulse {
+  fill: var(--accent, var(--red));
+  opacity: 0.22;
+}
+
+.world-inset__dot {
+  fill: var(--accent, var(--red));
+}
+
+@media (max-width: 640px) {
+  .world-inset {
+    max-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .world-inset__pulse,
+  .world-inset__dot {
+    animation: none !important;
+  }
+}
