@@ -1,0 +1,6374 @@
+{
+  "1949": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1949-06-17"
+    },
+    {
+      "round": 2,
+      "circuit_id": "bremgarten",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1949-07-03"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1949-07-09"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1949-07-17"
+    },
+    {
+      "round": 5,
+      "circuit_id": "clady",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1949-08-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1949-09-04"
+    }
+  ],
+  "1950": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1950-06-10"
+    },
+    {
+      "round": 2,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1950-07-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1950-07-08"
+    },
+    {
+      "round": 4,
+      "circuit_id": "circuit-des-nations",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1950-07-23"
+    },
+    {
+      "round": 5,
+      "circuit_id": "clady",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1950-08-18"
+    },
+    {
+      "round": 6,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1950-09-10"
+    }
+  ],
+  "1951": [
+    {
+      "round": 1,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1951-04-08"
+    },
+    {
+      "round": 2,
+      "circuit_id": "bremgarten",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1951-05-27"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1951-06-08"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1951-07-01"
+    },
+    {
+      "round": 5,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1951-07-07"
+    },
+    {
+      "round": 6,
+      "circuit_id": "circuit-les-planques",
+      "gp_name": "French Grand Prix",
+      "date": "1951-07-14"
+    },
+    {
+      "round": 7,
+      "circuit_id": "clady",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1951-08-18"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1951-09-09"
+    }
+  ],
+  "1952": [
+    {
+      "round": 1,
+      "circuit_id": "bremgarten",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1952-05-18"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1952-06-13"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1952-06-28"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1952-07-06"
+    },
+    {
+      "round": 5,
+      "circuit_id": "solitudering",
+      "gp_name": "German Grand Prix",
+      "date": "1952-07-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "clady",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1952-08-16"
+    },
+    {
+      "round": 7,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1952-09-14"
+    },
+    {
+      "round": 8,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1952-10-05"
+    }
+  ],
+  "1953": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1953-06-12"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1953-06-27"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1953-07-05"
+    },
+    {
+      "round": 4,
+      "circuit_id": "schottenring",
+      "gp_name": "German Grand Prix",
+      "date": "1953-07-19"
+    },
+    {
+      "round": 5,
+      "circuit_id": "rouen",
+      "gp_name": "French Grand Prix",
+      "date": "1953-08-02"
+    },
+    {
+      "round": 6,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1953-08-15"
+    },
+    {
+      "round": 7,
+      "circuit_id": "bremgarten",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1953-08-23"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1953-09-06"
+    },
+    {
+      "round": 9,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1953-10-04"
+    }
+  ],
+  "1954": [
+    {
+      "round": 1,
+      "circuit_id": "reims",
+      "gp_name": "French Grand Prix",
+      "date": "1954-05-30"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1954-06-18"
+    },
+    {
+      "round": 3,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1954-06-26"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1954-07-04"
+    },
+    {
+      "round": 5,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1954-07-10"
+    },
+    {
+      "round": 6,
+      "circuit_id": "solitudering",
+      "gp_name": "German Grand Prix",
+      "date": "1954-07-25"
+    },
+    {
+      "round": 7,
+      "circuit_id": "bremgarten",
+      "gp_name": "Swiss Grand Prix",
+      "date": "1954-08-22"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1954-09-12"
+    },
+    {
+      "round": 9,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1954-10-03"
+    }
+  ],
+  "1955": [
+    {
+      "round": 1,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1955-05-01"
+    },
+    {
+      "round": 2,
+      "circuit_id": "reims",
+      "gp_name": "French Grand Prix",
+      "date": "1955-05-15"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1955-06-10"
+    },
+    {
+      "round": 4,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1955-06-26"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1955-07-03"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1955-07-16"
+    },
+    {
+      "round": 7,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1955-08-13"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1955-09-04"
+    }
+  ],
+  "1956": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1956-06-08"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1956-06-30"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1956-07-08"
+    },
+    {
+      "round": 4,
+      "circuit_id": "solitudering",
+      "gp_name": "German Grand Prix",
+      "date": "1956-07-22"
+    },
+    {
+      "round": 5,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1956-08-11"
+    },
+    {
+      "round": 6,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1956-09-09"
+    }
+  ],
+  "1957": [
+    {
+      "round": 1,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1957-05-19"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1957-06-07"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1957-06-29"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1957-07-07"
+    },
+    {
+      "round": 5,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1957-08-10"
+    },
+    {
+      "round": 6,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1957-09-01"
+    }
+  ],
+  "1958": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1958-06-06"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1958-06-28"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1958-07-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1958-07-20"
+    },
+    {
+      "round": 5,
+      "circuit_id": "hedemora",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1958-07-27"
+    },
+    {
+      "round": 6,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1958-08-09"
+    },
+    {
+      "round": 7,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1958-09-14"
+    }
+  ],
+  "1959": [
+    {
+      "round": 1,
+      "circuit_id": "charade",
+      "gp_name": "French Grand Prix",
+      "date": "1959-05-17"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1959-06-06"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1959-06-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1959-06-27"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1959-07-05"
+    },
+    {
+      "round": 6,
+      "circuit_id": "rabelovsbanan",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1959-07-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1959-08-08"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1959-09-06"
+    }
+  ],
+  "1960": [
+    {
+      "round": 1,
+      "circuit_id": "charade",
+      "gp_name": "French Grand Prix",
+      "date": "1960-05-22"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1960-06-17"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1960-06-25"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1960-07-03"
+    },
+    {
+      "round": 5,
+      "circuit_id": "solitudering",
+      "gp_name": "German Grand Prix",
+      "date": "1960-07-24"
+    },
+    {
+      "round": 6,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1960-08-06"
+    },
+    {
+      "round": 7,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1960-09-11"
+    }
+  ],
+  "1961": [
+    {
+      "round": 1,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1961-05-14"
+    },
+    {
+      "round": 2,
+      "circuit_id": "charade",
+      "gp_name": "French Grand Prix",
+      "date": "1961-05-21"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1961-06-12"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1961-06-24"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1961-07-02"
+    },
+    {
+      "round": 6,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1961-07-30"
+    },
+    {
+      "round": 7,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1961-08-12"
+    },
+    {
+      "round": 8,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1961-09-03"
+    },
+    {
+      "round": 9,
+      "circuit_id": "rabelovsbanan",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1961-09-17"
+    },
+    {
+      "round": 10,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine Grand Prix",
+      "date": "1961-10-15"
+    }
+  ],
+  "1962": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1962-06-06"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1962-06-30"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1962-07-08"
+    },
+    {
+      "round": 4,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1962-08-11"
+    },
+    {
+      "round": 5,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1962-08-19"
+    },
+    {
+      "round": 6,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1962-09-09"
+    },
+    {
+      "round": 7,
+      "circuit_id": "tampere",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1962-09-23"
+    },
+    {
+      "round": 8,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine Grand Prix",
+      "date": "1962-10-14"
+    }
+  ],
+  "1963": [
+    {
+      "round": 1,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1963-06-12"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1963-06-29"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1963-07-07"
+    },
+    {
+      "round": 4,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1963-08-10"
+    },
+    {
+      "round": 5,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1963-08-18"
+    },
+    {
+      "round": 6,
+      "circuit_id": "tampere",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1963-09-01"
+    },
+    {
+      "round": 7,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1963-09-15"
+    },
+    {
+      "round": 8,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine Grand Prix",
+      "date": "1963-10-06"
+    }
+  ],
+  "1964": [
+    {
+      "round": 1,
+      "circuit_id": "daytona",
+      "gp_name": "United States Grand Prix",
+      "date": "1964-02-02"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1964-06-12"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1964-06-27"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1964-07-05"
+    },
+    {
+      "round": 5,
+      "circuit_id": "solitudering",
+      "gp_name": "West German Grand Prix",
+      "date": "1964-07-19"
+    },
+    {
+      "round": 6,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1964-07-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1964-08-08"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1964-08-30"
+    },
+    {
+      "round": 9,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1964-09-13"
+    }
+  ],
+  "1965": [
+    {
+      "round": 1,
+      "circuit_id": "daytona",
+      "gp_name": "United States Grand Prix",
+      "date": "1965-03-21"
+    },
+    {
+      "round": 2,
+      "circuit_id": "nurburgring",
+      "gp_name": "West German Grand Prix",
+      "date": "1965-04-25"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1965-06-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1965-06-26"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1965-07-04"
+    },
+    {
+      "round": 6,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1965-07-18"
+    },
+    {
+      "round": 7,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1965-07-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1965-08-07"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1965-08-22"
+    },
+    {
+      "round": 10,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1965-09-05"
+    }
+  ],
+  "1966": [
+    {
+      "round": 1,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1966-05-22"
+    },
+    {
+      "round": 2,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1966-06-25"
+    },
+    {
+      "round": 3,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1966-07-03"
+    },
+    {
+      "round": 4,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1966-07-17"
+    },
+    {
+      "round": 5,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1966-07-24"
+    },
+    {
+      "round": 6,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1966-08-07"
+    },
+    {
+      "round": 7,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1966-08-20"
+    },
+    {
+      "round": 8,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1966-09-02"
+    },
+    {
+      "round": 9,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1966-09-11"
+    }
+  ],
+  "1967": [
+    {
+      "round": 1,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1967-05-07"
+    },
+    {
+      "round": 2,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1967-06-16"
+    },
+    {
+      "round": 3,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1967-06-24"
+    },
+    {
+      "round": 4,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1967-07-02"
+    },
+    {
+      "round": 5,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1967-07-16"
+    },
+    {
+      "round": 6,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1967-07-23"
+    },
+    {
+      "round": 7,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1967-08-06"
+    },
+    {
+      "round": 8,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1967-08-19"
+    },
+    {
+      "round": 9,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1967-09-03"
+    },
+    {
+      "round": 10,
+      "circuit_id": "mosport",
+      "gp_name": "Canadian Grand Prix",
+      "date": "1967-09-30"
+    }
+  ],
+  "1968": [
+    {
+      "round": 1,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1968-04-21"
+    },
+    {
+      "round": 2,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1968-05-05"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1968-06-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1968-06-29"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1968-07-07"
+    },
+    {
+      "round": 6,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1968-07-14"
+    },
+    {
+      "round": 7,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1968-07-21"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1968-08-04"
+    },
+    {
+      "round": 9,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1968-08-17"
+    },
+    {
+      "round": 10,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1968-09-15"
+    }
+  ],
+  "1969": [
+    {
+      "round": 1,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1969-05-04"
+    },
+    {
+      "round": 2,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1969-05-11"
+    },
+    {
+      "round": 3,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1969-05-18"
+    },
+    {
+      "round": 4,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1969-06-13"
+    },
+    {
+      "round": 5,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1969-06-28"
+    },
+    {
+      "round": 6,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1969-07-06"
+    },
+    {
+      "round": 7,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1969-07-13"
+    },
+    {
+      "round": 8,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1969-07-20"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1969-08-03"
+    },
+    {
+      "round": 10,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1969-08-16"
+    },
+    {
+      "round": 11,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1969-09-07"
+    },
+    {
+      "round": 12,
+      "circuit_id": "opatija",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1969-09-14"
+    }
+  ],
+  "1970": [
+    {
+      "round": 1,
+      "circuit_id": "nurburgring",
+      "gp_name": "West German Grand Prix",
+      "date": "1970-05-03"
+    },
+    {
+      "round": 2,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1970-05-17"
+    },
+    {
+      "round": 3,
+      "circuit_id": "opatija",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1970-05-24"
+    },
+    {
+      "round": 4,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1970-06-12"
+    },
+    {
+      "round": 5,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1970-06-27"
+    },
+    {
+      "round": 6,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1970-07-05"
+    },
+    {
+      "round": 7,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1970-07-12"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1970-08-02"
+    },
+    {
+      "round": 9,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1970-08-15"
+    },
+    {
+      "round": 10,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1970-09-13"
+    },
+    {
+      "round": 11,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1970-09-27"
+    }
+  ],
+  "1971": [
+    {
+      "round": 1,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1971-05-09"
+    },
+    {
+      "round": 2,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1971-05-16"
+    },
+    {
+      "round": 3,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1971-06-12"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1971-06-26"
+    },
+    {
+      "round": 5,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1971-07-04"
+    },
+    {
+      "round": 6,
+      "circuit_id": "sachsenring",
+      "gp_name": "East German Grand Prix",
+      "date": "1971-07-11"
+    },
+    {
+      "round": 7,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1971-07-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1971-08-01"
+    },
+    {
+      "round": 9,
+      "circuit_id": "dundrod",
+      "gp_name": "Ulster Grand Prix",
+      "date": "1971-08-14"
+    },
+    {
+      "round": 10,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1971-09-12"
+    },
+    {
+      "round": 11,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1971-09-26"
+    }
+  ],
+  "1972": [
+    {
+      "round": 1,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1972-04-30"
+    },
+    {
+      "round": 2,
+      "circuit_id": "charade",
+      "gp_name": "French Grand Prix",
+      "date": "1972-05-07"
+    },
+    {
+      "round": 3,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1972-05-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1972-05-21"
+    },
+    {
+      "round": 5,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1972-06-09"
+    },
+    {
+      "round": 6,
+      "circuit_id": "opatija",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1972-06-18"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1972-06-24"
+    },
+    {
+      "round": 8,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1972-07-02"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "Grand Prix of the DRG",
+      "date": "1972-07-09"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1972-07-16"
+    },
+    {
+      "round": 11,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1972-07-23"
+    },
+    {
+      "round": 12,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1972-07-30"
+    },
+    {
+      "round": 13,
+      "circuit_id": "montjuic",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1972-09-23"
+    }
+  ],
+  "1973": [
+    {
+      "round": 1,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1973-04-22"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1973-05-06"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "West German Grand Prix",
+      "date": "1973-05-13"
+    },
+    {
+      "round": 4,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1973-06-08"
+    },
+    {
+      "round": 5,
+      "circuit_id": "opatija",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1973-06-17"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1973-06-23"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1973-07-01"
+    },
+    {
+      "round": 8,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1973-07-15"
+    },
+    {
+      "round": 9,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1973-07-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1973-07-29"
+    },
+    {
+      "round": 11,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1973-09-23"
+    }
+  ],
+  "1974": [
+    {
+      "round": 1,
+      "circuit_id": "charade",
+      "gp_name": "French Grand Prix",
+      "date": "1974-04-21"
+    },
+    {
+      "round": 2,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1974-04-28"
+    },
+    {
+      "round": 3,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1974-05-05"
+    },
+    {
+      "round": 4,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1974-05-19"
+    },
+    {
+      "round": 5,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1974-06-06"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1974-06-29"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1974-07-07"
+    },
+    {
+      "round": 8,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1974-07-21"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1974-07-28"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1974-08-25"
+    }
+  ],
+  "1975": [
+    {
+      "round": 1,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1975-03-30"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1975-05-04"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1975-05-11"
+    },
+    {
+      "round": 4,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1975-05-18"
+    },
+    {
+      "round": 5,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1975-06-06"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1975-06-28"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1975-07-06"
+    },
+    {
+      "round": 8,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1975-07-20"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1975-07-27"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1975-08-24"
+    }
+  ],
+  "1976": [
+    {
+      "round": 1,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1976-04-25"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1976-05-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "mugello",
+      "gp_name": "Nations Grand Prix",
+      "date": "1976-05-16"
+    },
+    {
+      "round": 4,
+      "circuit_id": "snaefell-mountain-course",
+      "gp_name": "Isle of Man TT",
+      "date": "1976-06-12"
+    },
+    {
+      "round": 5,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1976-06-26"
+    },
+    {
+      "round": 6,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1976-07-04"
+    },
+    {
+      "round": 7,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1976-07-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1976-08-01"
+    },
+    {
+      "round": 9,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1976-08-22"
+    },
+    {
+      "round": 10,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1976-08-29"
+    }
+  ],
+  "1977": [
+    {
+      "round": 1,
+      "circuit_id": "san-carlos",
+      "gp_name": "Venezuelan Grand Prix",
+      "date": "1977-03-20"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1977-05-01"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1977-05-08"
+    },
+    {
+      "round": 4,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1977-05-15"
+    },
+    {
+      "round": 5,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1977-05-29"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1977-06-25"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1977-07-03"
+    },
+    {
+      "round": 8,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1977-07-24"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1977-07-31"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1977-08-07"
+    },
+    {
+      "round": 11,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1977-08-14"
+    }
+  ],
+  "1978": [
+    {
+      "round": 1,
+      "circuit_id": "san-carlos",
+      "gp_name": "Venezuelan Grand Prix",
+      "date": "1978-03-19"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1978-04-16"
+    },
+    {
+      "round": 3,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1978-04-30"
+    },
+    {
+      "round": 4,
+      "circuit_id": "circuit-paul-armagnac",
+      "gp_name": "French Grand Prix",
+      "date": "1978-05-07"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Nations Grand Prix",
+      "date": "1978-05-14"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1978-06-24"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1978-07-02"
+    },
+    {
+      "round": 8,
+      "circuit_id": "karlskoga",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1978-07-23"
+    },
+    {
+      "round": 9,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1978-07-30"
+    },
+    {
+      "round": 10,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1978-08-06"
+    },
+    {
+      "round": 11,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1978-08-20"
+    }
+  ],
+  "1979": [
+    {
+      "round": 1,
+      "circuit_id": "san-carlos",
+      "gp_name": "Venezuelan Grand Prix",
+      "date": "1979-03-18"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1979-04-29"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1979-05-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "imola",
+      "gp_name": "Nations Grand Prix",
+      "date": "1979-05-13"
+    },
+    {
+      "round": 5,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1979-05-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1979-06-10"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1979-06-23"
+    },
+    {
+      "round": 8,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1979-07-01"
+    },
+    {
+      "round": 9,
+      "circuit_id": "karlskoga",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1979-07-22"
+    },
+    {
+      "round": 10,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1979-07-29"
+    },
+    {
+      "round": 11,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1979-08-12"
+    },
+    {
+      "round": 12,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1979-09-02"
+    }
+  ],
+  "1980": [
+    {
+      "round": 1,
+      "circuit_id": "misano",
+      "gp_name": "Nations Grand Prix",
+      "date": "1980-05-11"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1980-05-18"
+    },
+    {
+      "round": 3,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1980-05-25"
+    },
+    {
+      "round": 4,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1980-06-28"
+    },
+    {
+      "round": 5,
+      "circuit_id": "zolder",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1980-07-06"
+    },
+    {
+      "round": 6,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1980-07-27"
+    },
+    {
+      "round": 7,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1980-08-10"
+    },
+    {
+      "round": 8,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1980-08-24"
+    }
+  ],
+  "1981": [
+    {
+      "round": 1,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1981-04-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1981-05-03"
+    },
+    {
+      "round": 3,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1981-05-10"
+    },
+    {
+      "round": 4,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1981-05-17"
+    },
+    {
+      "round": 5,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1981-05-31"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1981-06-27"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1981-07-05"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imola",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1981-07-12"
+    },
+    {
+      "round": 9,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1981-08-02"
+    },
+    {
+      "round": 10,
+      "circuit_id": "imatra",
+      "gp_name": "Finnish Grand Prix",
+      "date": "1981-08-09"
+    },
+    {
+      "round": 11,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1981-08-16"
+    }
+  ],
+  "1982": [
+    {
+      "round": 1,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine Grand Prix",
+      "date": "1982-03-29"
+    },
+    {
+      "round": 2,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1982-05-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "circuit-paul-armagnac",
+      "gp_name": "French Grand Prix",
+      "date": "1982-05-09"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1982-05-23"
+    },
+    {
+      "round": 5,
+      "circuit_id": "misano",
+      "gp_name": "Nations Grand Prix",
+      "date": "1982-05-30"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1982-06-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1982-07-04"
+    },
+    {
+      "round": 8,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1982-07-18"
+    },
+    {
+      "round": 9,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1982-08-01"
+    },
+    {
+      "round": 10,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1982-08-08"
+    },
+    {
+      "round": 11,
+      "circuit_id": "mugello",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1982-09-05"
+    },
+    {
+      "round": 12,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1982-09-26"
+    }
+  ],
+  "1983": [
+    {
+      "round": 1,
+      "circuit_id": "kyalami",
+      "gp_name": "South African Grand Prix",
+      "date": "1983-03-19"
+    },
+    {
+      "round": 2,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1983-04-03"
+    },
+    {
+      "round": 3,
+      "circuit_id": "monza",
+      "gp_name": "Nations Grand Prix",
+      "date": "1983-04-24"
+    },
+    {
+      "round": 4,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1983-05-08"
+    },
+    {
+      "round": 5,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1983-05-22"
+    },
+    {
+      "round": 6,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1983-05-29"
+    },
+    {
+      "round": 7,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1983-06-12"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1983-06-25"
+    },
+    {
+      "round": 9,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1983-07-03"
+    },
+    {
+      "round": 10,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1983-07-31"
+    },
+    {
+      "round": 11,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1983-08-06"
+    },
+    {
+      "round": 12,
+      "circuit_id": "imola",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1983-09-04"
+    }
+  ],
+  "1984": [
+    {
+      "round": 1,
+      "circuit_id": "kyalami",
+      "gp_name": "South African Grand Prix",
+      "date": "1984-03-24"
+    },
+    {
+      "round": 2,
+      "circuit_id": "misano",
+      "gp_name": "Italian Grand Prix",
+      "date": "1984-04-15"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1984-05-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1984-05-20"
+    },
+    {
+      "round": 5,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1984-05-27"
+    },
+    {
+      "round": 6,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1984-06-11"
+    },
+    {
+      "round": 7,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1984-06-17"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1984-06-30"
+    },
+    {
+      "round": 9,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1984-07-08"
+    },
+    {
+      "round": 10,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1984-08-05"
+    },
+    {
+      "round": 11,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1984-08-12"
+    },
+    {
+      "round": 12,
+      "circuit_id": "mugello",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1984-09-02"
+    }
+  ],
+  "1985": [
+    {
+      "round": 1,
+      "circuit_id": "kyalami",
+      "gp_name": "South African Grand Prix",
+      "date": "1985-03-23"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1985-05-05"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1985-05-19"
+    },
+    {
+      "round": 4,
+      "circuit_id": "mugello",
+      "gp_name": "Italian Grand Prix",
+      "date": "1985-05-26"
+    },
+    {
+      "round": 5,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1985-06-02"
+    },
+    {
+      "round": 6,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1985-06-16"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1985-06-29"
+    },
+    {
+      "round": 8,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1985-07-07"
+    },
+    {
+      "round": 9,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1985-07-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1985-08-04"
+    },
+    {
+      "round": 11,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1985-08-10"
+    },
+    {
+      "round": 12,
+      "circuit_id": "misano",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1985-09-01"
+    }
+  ],
+  "1986": [
+    {
+      "round": 1,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1986-05-04"
+    },
+    {
+      "round": 2,
+      "circuit_id": "monza",
+      "gp_name": "Italian Grand Prix",
+      "date": "1986-05-18"
+    },
+    {
+      "round": 3,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1986-05-25"
+    },
+    {
+      "round": 4,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1986-06-08"
+    },
+    {
+      "round": 5,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1986-06-15"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1986-06-28"
+    },
+    {
+      "round": 7,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1986-07-06"
+    },
+    {
+      "round": 8,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1986-07-20"
+    },
+    {
+      "round": 9,
+      "circuit_id": "silverstone",
+      "gp_name": "British Grand Prix",
+      "date": "1986-08-03"
+    },
+    {
+      "round": 10,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1986-08-09"
+    },
+    {
+      "round": 11,
+      "circuit_id": "misano",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1986-08-24"
+    }
+  ],
+  "1987": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1987-03-29"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1987-04-26"
+    },
+    {
+      "round": 3,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1987-05-17"
+    },
+    {
+      "round": 4,
+      "circuit_id": "monza",
+      "gp_name": "Italian Grand Prix",
+      "date": "1987-05-24"
+    },
+    {
+      "round": 5,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1987-06-07"
+    },
+    {
+      "round": 6,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1987-06-14"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1987-06-27"
+    },
+    {
+      "round": 8,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1987-07-19"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1987-08-02"
+    },
+    {
+      "round": 10,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1987-08-09"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1987-08-23"
+    },
+    {
+      "round": 12,
+      "circuit_id": "misano",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1987-08-30"
+    },
+    {
+      "round": 13,
+      "circuit_id": "jarama",
+      "gp_name": "Portuguese Grand Prix",
+      "date": "1987-09-13"
+    },
+    {
+      "round": 14,
+      "circuit_id": "goiania",
+      "gp_name": "Brazilian Grand Prix",
+      "date": "1987-09-27"
+    },
+    {
+      "round": 15,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine Grand Prix",
+      "date": "1987-10-04"
+    }
+  ],
+  "1988": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1988-03-27"
+    },
+    {
+      "round": 2,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States Grand Prix",
+      "date": "1988-04-10"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jarama",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1988-04-24"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Expo 92 Grand Prix",
+      "date": "1988-05-01"
+    },
+    {
+      "round": 5,
+      "circuit_id": "imola",
+      "gp_name": "Italian Grand Prix",
+      "date": "1988-05-22"
+    },
+    {
+      "round": 6,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1988-05-29"
+    },
+    {
+      "round": 7,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1988-06-12"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1988-06-25"
+    },
+    {
+      "round": 9,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1988-07-03"
+    },
+    {
+      "round": 10,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1988-07-17"
+    },
+    {
+      "round": 11,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1988-07-24"
+    },
+    {
+      "round": 12,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1988-08-07"
+    },
+    {
+      "round": 13,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1988-08-14"
+    },
+    {
+      "round": 14,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1988-08-28"
+    },
+    {
+      "round": 15,
+      "circuit_id": "goiania",
+      "gp_name": "Brazilian Grand Prix",
+      "date": "1988-09-17"
+    }
+  ],
+  "1989": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1989-03-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian Grand Prix",
+      "date": "1989-04-09"
+    },
+    {
+      "round": 3,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States Grand Prix",
+      "date": "1989-04-16"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1989-04-30"
+    },
+    {
+      "round": 5,
+      "circuit_id": "misano",
+      "gp_name": "Nations Grand Prix",
+      "date": "1989-05-14"
+    },
+    {
+      "round": 6,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1989-05-28"
+    },
+    {
+      "round": 7,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1989-06-04"
+    },
+    {
+      "round": 8,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1989-06-11"
+    },
+    {
+      "round": 9,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1989-06-24"
+    },
+    {
+      "round": 10,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1989-07-02"
+    },
+    {
+      "round": 11,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1989-07-16"
+    },
+    {
+      "round": 12,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1989-08-06"
+    },
+    {
+      "round": 13,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1989-08-13"
+    },
+    {
+      "round": 14,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1989-08-27"
+    },
+    {
+      "round": 15,
+      "circuit_id": "goiania",
+      "gp_name": "Brazilian Grand Prix",
+      "date": "1989-09-17"
+    }
+  ],
+  "1990": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1990-03-25"
+    },
+    {
+      "round": 2,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States Grand Prix",
+      "date": "1990-04-08"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1990-05-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "misano",
+      "gp_name": "Nations Grand Prix",
+      "date": "1990-05-20"
+    },
+    {
+      "round": 5,
+      "circuit_id": "nurburgring",
+      "gp_name": "German Grand Prix",
+      "date": "1990-05-27"
+    },
+    {
+      "round": 6,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1990-06-10"
+    },
+    {
+      "round": 7,
+      "circuit_id": "grobnik",
+      "gp_name": "Yugoslavian Grand Prix",
+      "date": "1990-06-17"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1990-06-30"
+    },
+    {
+      "round": 9,
+      "circuit_id": "spa",
+      "gp_name": "Belgian Grand Prix",
+      "date": "1990-07-07"
+    },
+    {
+      "round": 10,
+      "circuit_id": "bugatti",
+      "gp_name": "French Grand Prix",
+      "date": "1990-07-22"
+    },
+    {
+      "round": 11,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1990-08-05"
+    },
+    {
+      "round": 12,
+      "circuit_id": "anderstorp",
+      "gp_name": "Swedish Grand Prix",
+      "date": "1990-08-12"
+    },
+    {
+      "round": 13,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1990-08-26"
+    },
+    {
+      "round": 14,
+      "circuit_id": "hungaroring",
+      "gp_name": "Hungarian Grand Prix",
+      "date": "1990-09-02"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian Grand Prix",
+      "date": "1990-09-16"
+    }
+  ],
+  "1991": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1991-03-24"
+    },
+    {
+      "round": 2,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian Grand Prix",
+      "date": "1991-04-07"
+    },
+    {
+      "round": 3,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States Grand Prix",
+      "date": "1991-04-21"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1991-05-12"
+    },
+    {
+      "round": 5,
+      "circuit_id": "misano",
+      "gp_name": "Italian Grand Prix",
+      "date": "1991-05-19"
+    },
+    {
+      "round": 6,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1991-05-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian Grand Prix",
+      "date": "1991-06-09"
+    },
+    {
+      "round": 8,
+      "circuit_id": "jarama",
+      "gp_name": "European Grand Prix",
+      "date": "1991-06-16"
+    },
+    {
+      "round": 9,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1991-06-29"
+    },
+    {
+      "round": 10,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French Grand Prix",
+      "date": "1991-07-21"
+    },
+    {
+      "round": 11,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1991-08-04"
+    },
+    {
+      "round": 12,
+      "circuit_id": "mugello",
+      "gp_name": "San Marino Grand Prix",
+      "date": "1991-08-18"
+    },
+    {
+      "round": 13,
+      "circuit_id": "brno",
+      "gp_name": "Czechoslovak Grand Prix",
+      "date": "1991-08-25"
+    },
+    {
+      "round": 14,
+      "circuit_id": "bugatti",
+      "gp_name": "Vitesse du Mans Grand Prix",
+      "date": "1991-09-08"
+    },
+    {
+      "round": 15,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian Grand Prix",
+      "date": "1991-09-29"
+    }
+  ],
+  "1992": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese Grand Prix",
+      "date": "1992-03-29"
+    },
+    {
+      "round": 2,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian Grand Prix",
+      "date": "1992-04-12"
+    },
+    {
+      "round": 3,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian Grand Prix",
+      "date": "1992-04-19"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish Grand Prix",
+      "date": "1992-05-10"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian Grand Prix",
+      "date": "1992-05-24"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "European Grand Prix",
+      "date": "1992-05-31"
+    },
+    {
+      "round": 7,
+      "circuit_id": "hockenheim",
+      "gp_name": "German Grand Prix",
+      "date": "1992-06-14"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1992-06-27"
+    },
+    {
+      "round": 9,
+      "circuit_id": "hungaroring",
+      "gp_name": "Hungarian Grand Prix",
+      "date": "1992-07-12"
+    },
+    {
+      "round": 10,
+      "circuit_id": "magny-cours",
+      "gp_name": "French Grand Prix",
+      "date": "1992-07-19"
+    },
+    {
+      "round": 11,
+      "circuit_id": "donington",
+      "gp_name": "British Grand Prix",
+      "date": "1992-08-02"
+    },
+    {
+      "round": 12,
+      "circuit_id": "interlagos",
+      "gp_name": "Brazilian Grand Prix",
+      "date": "1992-08-23"
+    },
+    {
+      "round": 13,
+      "circuit_id": "kyalami",
+      "gp_name": "South African Grand Prix",
+      "date": "1992-09-06"
+    }
+  ],
+  "1993": [
+    {
+      "round": 1,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1993-03-28"
+    },
+    {
+      "round": 2,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1993-04-04"
+    },
+    {
+      "round": 3,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1993-04-18"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1993-05-02"
+    },
+    {
+      "round": 5,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian motorcycle Grand Prix",
+      "date": "1993-05-16"
+    },
+    {
+      "round": 6,
+      "circuit_id": "hockenheim",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1993-06-13"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1993-06-26"
+    },
+    {
+      "round": 8,
+      "circuit_id": "catalunya",
+      "gp_name": "European motorcycle Grand Prix",
+      "date": "1993-07-04"
+    },
+    {
+      "round": 9,
+      "circuit_id": "mugello",
+      "gp_name": "San Marino motorcycle Grand Prix",
+      "date": "1993-07-18"
+    },
+    {
+      "round": 10,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1993-08-01"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1993-08-22"
+    },
+    {
+      "round": 12,
+      "circuit_id": "misano",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1993-09-05"
+    },
+    {
+      "round": 13,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "1993-09-12"
+    },
+    {
+      "round": 14,
+      "circuit_id": "jarama",
+      "gp_name": "FIM motorcycle Grand Prix",
+      "date": "1993-09-26"
+    }
+  ],
+  "1994": [
+    {
+      "round": 1,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1994-03-27"
+    },
+    {
+      "round": 2,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1994-04-10"
+    },
+    {
+      "round": 3,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1994-04-24"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1994-05-08"
+    },
+    {
+      "round": 5,
+      "circuit_id": "salzburgring",
+      "gp_name": "Austrian motorcycle Grand Prix",
+      "date": "1994-05-22"
+    },
+    {
+      "round": 6,
+      "circuit_id": "hockenheim",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1994-06-12"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1994-06-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1994-07-03"
+    },
+    {
+      "round": 9,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1994-07-17"
+    },
+    {
+      "round": 10,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1994-07-24"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1994-08-21"
+    },
+    {
+      "round": 12,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "1994-09-11"
+    },
+    {
+      "round": 13,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine motorcycle Grand Prix",
+      "date": "1994-09-25"
+    },
+    {
+      "round": 14,
+      "circuit_id": "catalunya",
+      "gp_name": "European motorcycle Grand Prix",
+      "date": "1994-10-09"
+    }
+  ],
+  "1995": [
+    {
+      "round": 1,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1995-03-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1995-04-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1995-04-23"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1995-05-07"
+    },
+    {
+      "round": 5,
+      "circuit_id": "nurburgring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1995-05-21"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1995-06-11"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1995-06-24"
+    },
+    {
+      "round": 8,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1995-07-09"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1995-07-23"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1995-08-20"
+    },
+    {
+      "round": 11,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "1995-09-17"
+    },
+    {
+      "round": 12,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine motorcycle Grand Prix",
+      "date": "1995-09-24"
+    },
+    {
+      "round": 13,
+      "circuit_id": "catalunya",
+      "gp_name": "European motorcycle Grand Prix",
+      "date": "1995-10-08"
+    }
+  ],
+  "1996": [
+    {
+      "round": 1,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1996-03-31"
+    },
+    {
+      "round": 2,
+      "circuit_id": "sentul",
+      "gp_name": "Indonesian motorcycle Grand Prix",
+      "date": "1996-04-07"
+    },
+    {
+      "round": 3,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1996-04-21"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1996-05-12"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1996-05-26"
+    },
+    {
+      "round": 6,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1996-06-09"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1996-06-29"
+    },
+    {
+      "round": 8,
+      "circuit_id": "nurburgring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1996-07-07"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1996-07-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Austrian motorcycle Grand Prix",
+      "date": "1996-08-04"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1996-08-18"
+    },
+    {
+      "round": 12,
+      "circuit_id": "imola",
+      "gp_name": "City of Imola motorcycle Grand Prix",
+      "date": "1996-09-01"
+    },
+    {
+      "round": 13,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "1996-09-15"
+    },
+    {
+      "round": 14,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "1996-10-06"
+    },
+    {
+      "round": 15,
+      "circuit_id": "eastern-creek",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1996-10-20"
+    }
+  ],
+  "1997": [
+    {
+      "round": 1,
+      "circuit_id": "shah-alam",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1997-04-13"
+    },
+    {
+      "round": 2,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1997-04-20"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1997-05-04"
+    },
+    {
+      "round": 4,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1997-05-18"
+    },
+    {
+      "round": 5,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Austrian motorcycle Grand Prix",
+      "date": "1997-06-01"
+    },
+    {
+      "round": 6,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1997-06-08"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1997-06-28"
+    },
+    {
+      "round": 8,
+      "circuit_id": "imola",
+      "gp_name": "City of Imola motorcycle Grand Prix",
+      "date": "1997-07-06"
+    },
+    {
+      "round": 9,
+      "circuit_id": "nurburgring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1997-07-20"
+    },
+    {
+      "round": 10,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "1997-08-03"
+    },
+    {
+      "round": 11,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1997-08-17"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1997-08-31"
+    },
+    {
+      "round": 13,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "1997-09-14"
+    },
+    {
+      "round": 14,
+      "circuit_id": "sentul",
+      "gp_name": "Indonesian motorcycle Grand Prix",
+      "date": "1997-09-28"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1997-10-05"
+    }
+  ],
+  "1998": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1998-04-05"
+    },
+    {
+      "round": 2,
+      "circuit_id": "johor",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1998-04-19"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1998-05-03"
+    },
+    {
+      "round": 4,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1998-05-17"
+    },
+    {
+      "round": 5,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1998-05-31"
+    },
+    {
+      "round": 6,
+      "circuit_id": "jarama",
+      "gp_name": "Madrid motorcycle Grand Prix",
+      "date": "1998-06-14"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1998-06-27"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1998-07-05"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1998-07-19"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1998-08-23"
+    },
+    {
+      "round": 11,
+      "circuit_id": "imola",
+      "gp_name": "City of Imola motorcycle Grand Prix",
+      "date": "1998-09-06"
+    },
+    {
+      "round": 12,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "1998-09-20"
+    },
+    {
+      "round": 13,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1998-10-04"
+    },
+    {
+      "round": 14,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine motorcycle Grand Prix",
+      "date": "1998-10-25"
+    }
+  ],
+  "1999": [
+    {
+      "round": 1,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "1999-04-18"
+    },
+    {
+      "round": 2,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "1999-04-25"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "1999-05-09"
+    },
+    {
+      "round": 4,
+      "circuit_id": "paul-ricard",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "1999-05-23"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "1999-06-06"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "1999-06-20"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "1999-06-26"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "1999-07-04"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "1999-07-18"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "1999-08-22"
+    },
+    {
+      "round": 11,
+      "circuit_id": "imola",
+      "gp_name": "City of Imola motorcycle Grand Prix",
+      "date": "1999-09-05"
+    },
+    {
+      "round": 12,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "1999-09-19"
+    },
+    {
+      "round": 13,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "1999-10-03"
+    },
+    {
+      "round": 14,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "1999-10-10"
+    },
+    {
+      "round": 15,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "1999-10-24"
+    },
+    {
+      "round": 16,
+      "circuit_id": "buenos-aires",
+      "gp_name": "Argentine motorcycle Grand Prix",
+      "date": "1999-10-31"
+    }
+  ],
+  "2000": [
+    {
+      "round": 1,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "2000-03-19"
+    },
+    {
+      "round": 2,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2000-04-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2000-04-09"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2000-04-30"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2000-05-14"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2000-05-28"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2000-06-11"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2000-06-24"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2000-07-09"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2000-07-23"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2000-08-20"
+    },
+    {
+      "round": 12,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2000-09-03"
+    },
+    {
+      "round": 13,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2000-09-17"
+    },
+    {
+      "round": 14,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "2000-10-07"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Pacific motorcycle Grand Prix",
+      "date": "2000-10-15"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2000-10-29"
+    }
+  ],
+  "2001": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2001-04-08"
+    },
+    {
+      "round": 2,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "2001-04-22"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2001-05-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2001-05-20"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2001-06-03"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2001-06-17"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2001-06-30"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2001-07-08"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2001-07-22"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2001-08-26"
+    },
+    {
+      "round": 11,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2001-09-09"
+    },
+    {
+      "round": 12,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2001-09-23"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motegi",
+      "gp_name": "Pacific motorcycle Grand Prix",
+      "date": "2001-10-07"
+    },
+    {
+      "round": 14,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2001-10-14"
+    },
+    {
+      "round": 15,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2001-10-21"
+    },
+    {
+      "round": 16,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "2001-11-03"
+    }
+  ],
+  "2002": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2002-04-07"
+    },
+    {
+      "round": 2,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "2002-04-21"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2002-05-05"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2002-05-19"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2002-06-02"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2002-06-16"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2002-06-29"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2002-07-14"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2002-07-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2002-08-25"
+    },
+    {
+      "round": 11,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2002-09-08"
+    },
+    {
+      "round": 12,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "2002-09-21"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motegi",
+      "gp_name": "Pacific motorcycle Grand Prix",
+      "date": "2002-10-06"
+    },
+    {
+      "round": 14,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2002-10-13"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2002-10-20"
+    },
+    {
+      "round": 16,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2002-11-03"
+    }
+  ],
+  "2003": [
+    {
+      "round": 1,
+      "circuit_id": "suzuka",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2003-04-06"
+    },
+    {
+      "round": 2,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "2003-04-27"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2003-05-11"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2003-05-25"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2003-06-08"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2003-06-15"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2003-06-28"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2003-07-13"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2003-07-27"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2003-08-17"
+    },
+    {
+      "round": 11,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2003-09-07"
+    },
+    {
+      "round": 12,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "2003-09-20"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motegi",
+      "gp_name": "Pacific motorcycle Grand Prix",
+      "date": "2003-10-05"
+    },
+    {
+      "round": 14,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2003-10-12"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2003-10-19"
+    },
+    {
+      "round": 16,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2003-11-02"
+    }
+  ],
+  "2004": [
+    {
+      "round": 1,
+      "circuit_id": "phakisa",
+      "gp_name": "South African motorcycle Grand Prix",
+      "date": "2004-04-18"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2004-05-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2004-05-16"
+    },
+    {
+      "round": 4,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2004-06-06"
+    },
+    {
+      "round": 5,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2004-06-13"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2004-06-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "jacarepagua",
+      "gp_name": "Rio de Janeiro motorcycle Grand Prix",
+      "date": "2004-07-04"
+    },
+    {
+      "round": 8,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2004-07-18"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2004-07-25"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2004-08-22"
+    },
+    {
+      "round": 11,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2004-09-05"
+    },
+    {
+      "round": 12,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2004-09-19"
+    },
+    {
+      "round": 13,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2004-10-02"
+    },
+    {
+      "round": 14,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2004-10-10"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2004-10-17"
+    },
+    {
+      "round": 16,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2004-10-31"
+    }
+  ],
+  "2005": [
+    {
+      "round": 1,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2005-04-10"
+    },
+    {
+      "round": 2,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2005-04-17"
+    },
+    {
+      "round": 3,
+      "circuit_id": "shanghai",
+      "gp_name": "Chinese motorcycle Grand Prix",
+      "date": "2005-05-01"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2005-05-15"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2005-06-05"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2005-06-12"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2005-06-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2005-07-10"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2005-07-24"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2005-07-31"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2005-08-28"
+    },
+    {
+      "round": 12,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2005-09-18"
+    },
+    {
+      "round": 13,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2005-09-25"
+    },
+    {
+      "round": 14,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2005-10-01"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2005-10-16"
+    },
+    {
+      "round": 16,
+      "circuit_id": "istanbul",
+      "gp_name": "Turkish motorcycle Grand Prix",
+      "date": "2005-10-23"
+    },
+    {
+      "round": 17,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2005-11-06"
+    }
+  ],
+  "2006": [
+    {
+      "round": 1,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2006-03-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2006-04-08"
+    },
+    {
+      "round": 3,
+      "circuit_id": "istanbul",
+      "gp_name": "Turkish motorcycle Grand Prix",
+      "date": "2006-04-30"
+    },
+    {
+      "round": 4,
+      "circuit_id": "shanghai",
+      "gp_name": "Chinese motorcycle Grand Prix",
+      "date": "2006-05-14"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2006-05-21"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2006-06-04"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2006-06-18"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2006-06-24"
+    },
+    {
+      "round": 9,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2006-07-02"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2006-07-16"
+    },
+    {
+      "round": 11,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2006-07-23"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2006-08-20"
+    },
+    {
+      "round": 13,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2006-09-10"
+    },
+    {
+      "round": 14,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2006-09-17"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2006-09-24"
+    },
+    {
+      "round": 16,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2006-10-15"
+    },
+    {
+      "round": 17,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2006-10-29"
+    }
+  ],
+  "2007": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2007-03-10"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2007-03-25"
+    },
+    {
+      "round": 3,
+      "circuit_id": "istanbul",
+      "gp_name": "Turkish motorcycle Grand Prix",
+      "date": "2007-04-22"
+    },
+    {
+      "round": 4,
+      "circuit_id": "shanghai",
+      "gp_name": "Chinese motorcycle Grand Prix",
+      "date": "2007-05-06"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2007-05-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2007-05-27"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2007-06-10"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2007-06-24"
+    },
+    {
+      "round": 9,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2007-06-30"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2007-07-15"
+    },
+    {
+      "round": 11,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2007-07-22"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2007-08-19"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "San Marino and Rimini Riviera motorcycle Grand Prix",
+      "date": "2007-09-02"
+    },
+    {
+      "round": 14,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2007-09-16"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2007-09-23"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2007-10-14"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2007-10-21"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2007-11-04"
+    }
+  ],
+  "2008": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2008-03-09"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2008-03-30"
+    },
+    {
+      "round": 3,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2008-04-13"
+    },
+    {
+      "round": 4,
+      "circuit_id": "shanghai",
+      "gp_name": "Chinese motorcycle Grand Prix",
+      "date": "2008-05-04"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2008-05-18"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2008-06-01"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2008-06-08"
+    },
+    {
+      "round": 8,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2008-06-22"
+    },
+    {
+      "round": 9,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2008-06-28"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2008-07-13"
+    },
+    {
+      "round": 11,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2008-07-20"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2008-08-17"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "San Marino and Rimini Riviera motorcycle Grand Prix",
+      "date": "2008-08-31"
+    },
+    {
+      "round": 14,
+      "circuit_id": "indianapolis",
+      "gp_name": "Indianapolis motorcycle Grand Prix",
+      "date": "2008-09-14"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2008-09-28"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2008-10-05"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2008-10-19"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2008-10-26"
+    }
+  ],
+  "2009": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2009-04-12"
+    },
+    {
+      "round": 2,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2009-04-26"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2009-05-03"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2009-05-17"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2009-05-31"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2009-06-14"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2009-06-27"
+    },
+    {
+      "round": 8,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2009-07-05"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2009-07-19"
+    },
+    {
+      "round": 10,
+      "circuit_id": "donington",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2009-07-26"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2009-08-16"
+    },
+    {
+      "round": 12,
+      "circuit_id": "indianapolis",
+      "gp_name": "Indianapolis motorcycle Grand Prix",
+      "date": "2009-08-30"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "San Marino and Rimini Riviera motorcycle Grand Prix",
+      "date": "2009-09-06"
+    },
+    {
+      "round": 14,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2009-10-04"
+    },
+    {
+      "round": 15,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2009-10-18"
+    },
+    {
+      "round": 16,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2009-10-25"
+    },
+    {
+      "round": 17,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2009-11-08"
+    }
+  ],
+  "2010": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2010-04-11"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2010-05-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2010-05-23"
+    },
+    {
+      "round": 4,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2010-06-06"
+    },
+    {
+      "round": 5,
+      "circuit_id": "silverstone",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2010-06-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2010-06-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2010-07-04"
+    },
+    {
+      "round": 8,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2010-07-18"
+    },
+    {
+      "round": 9,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2010-07-25"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2010-08-15"
+    },
+    {
+      "round": 11,
+      "circuit_id": "indianapolis",
+      "gp_name": "Indianapolis motorcycle Grand Prix",
+      "date": "2010-08-29"
+    },
+    {
+      "round": 12,
+      "circuit_id": "misano",
+      "gp_name": "San Marino and Rimini Riviera motorcycle Grand Prix",
+      "date": "2010-09-05"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Aragon motorcycle Grand Prix",
+      "date": "2010-09-19"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2010-10-03"
+    },
+    {
+      "round": 15,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2010-10-10"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2010-10-17"
+    },
+    {
+      "round": 17,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2010-10-31"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2010-11-07"
+    }
+  ],
+  "2011": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar motorcycle Grand Prix",
+      "date": "2011-03-20"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Spanish motorcycle Grand Prix",
+      "date": "2011-04-03"
+    },
+    {
+      "round": 3,
+      "circuit_id": "estoril",
+      "gp_name": "Portuguese motorcycle Grand Prix",
+      "date": "2011-05-01"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "French motorcycle Grand Prix",
+      "date": "2011-05-15"
+    },
+    {
+      "round": 5,
+      "circuit_id": "catalunya",
+      "gp_name": "Catalan motorcycle Grand Prix",
+      "date": "2011-06-05"
+    },
+    {
+      "round": 6,
+      "circuit_id": "silverstone",
+      "gp_name": "British motorcycle Grand Prix",
+      "date": "2011-06-12"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Dutch TT",
+      "date": "2011-06-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "mugello",
+      "gp_name": "Italian motorcycle Grand Prix",
+      "date": "2011-07-03"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "German motorcycle Grand Prix",
+      "date": "2011-07-17"
+    },
+    {
+      "round": 10,
+      "circuit_id": "laguna-seca",
+      "gp_name": "United States motorcycle Grand Prix",
+      "date": "2011-07-24"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "Czech Republic motorcycle Grand Prix",
+      "date": "2011-08-14"
+    },
+    {
+      "round": 12,
+      "circuit_id": "indianapolis",
+      "gp_name": "Indianapolis motorcycle Grand Prix",
+      "date": "2011-08-28"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "San Marino and Rimini Riviera motorcycle Grand Prix",
+      "date": "2011-09-04"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Aragon motorcycle Grand Prix",
+      "date": "2011-09-18"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Japanese motorcycle Grand Prix",
+      "date": "2011-10-02"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Australian motorcycle Grand Prix",
+      "date": "2011-10-16"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian motorcycle Grand Prix",
+      "date": "2011-10-23"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Valencian Community motorcycle Grand Prix",
+      "date": "2011-11-06"
+    }
+  ],
+  "2012": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Commercialbank Grand Prix of Qatar",
+      "date": "2012-04-08"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio bwin de España",
+      "date": "2012-04-29"
+    },
+    {
+      "round": 3,
+      "circuit_id": "estoril",
+      "gp_name": "Grande Prémio de Portugal Circuito Estoril",
+      "date": "2012-05-06"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "Monster Energy Grand Prix de France",
+      "date": "2012-05-20"
+    },
+    {
+      "round": 5,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Aperol de Catalunya",
+      "date": "2012-06-03"
+    },
+    {
+      "round": 6,
+      "circuit_id": "silverstone",
+      "gp_name": "Hertz British Grand Prix",
+      "date": "2012-06-17"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Iveco TT Assen",
+      "date": "2012-06-30"
+    },
+    {
+      "round": 8,
+      "circuit_id": "sachsenring",
+      "gp_name": "eni Motorrad Grand Prix Deutschland",
+      "date": "2012-07-08"
+    },
+    {
+      "round": 9,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia TIM",
+      "date": "2012-07-15"
+    },
+    {
+      "round": 10,
+      "circuit_id": "laguna-seca",
+      "gp_name": "Red Bull U.S. Grand Prix",
+      "date": "2012-07-29"
+    },
+    {
+      "round": 11,
+      "circuit_id": "indianapolis",
+      "gp_name": "Red Bull Indianapolis Grand Prix",
+      "date": "2012-08-19"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "bwin Grand Prix České republiky",
+      "date": "2012-08-26"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Aperol di San Marino e Della Riviera di Rimini",
+      "date": "2012-09-16"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Iveco de Aragón",
+      "date": "2012-09-30"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "AirAsia Grand Prix of Japan",
+      "date": "2012-10-14"
+    },
+    {
+      "round": 16,
+      "circuit_id": "sepang",
+      "gp_name": "Malaysian Motorcycle Grand Prix",
+      "date": "2012-10-21"
+    },
+    {
+      "round": 17,
+      "circuit_id": "phillip-island",
+      "gp_name": "AirAsia Australian Grand Prix",
+      "date": "2012-10-28"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Generali de la Comunitat Valenciana",
+      "date": "2012-11-11"
+    }
+  ],
+  "2013": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Commercialbank Grand Prix of Qatar",
+      "date": "2013-04-07"
+    },
+    {
+      "round": 2,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2013-04-21"
+    },
+    {
+      "round": 3,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio bwin de España",
+      "date": "2013-05-05"
+    },
+    {
+      "round": 4,
+      "circuit_id": "bugatti",
+      "gp_name": "Monster Energy Grand Prix de France",
+      "date": "2013-05-19"
+    },
+    {
+      "round": 5,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia TIM",
+      "date": "2013-06-02"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Aperol de Catalunya",
+      "date": "2013-06-16"
+    },
+    {
+      "round": 7,
+      "circuit_id": "assen",
+      "gp_name": "Iveco TT Assen",
+      "date": "2013-06-29"
+    },
+    {
+      "round": 8,
+      "circuit_id": "sachsenring",
+      "gp_name": "eni Motorrad Grand Prix Deutschland",
+      "date": "2013-07-14"
+    },
+    {
+      "round": 9,
+      "circuit_id": "laguna-seca",
+      "gp_name": "Red Bull U.S. Grand Prix",
+      "date": "2013-07-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "indianapolis",
+      "gp_name": "Red Bull Indianapolis Grand Prix",
+      "date": "2013-08-18"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "bwin Grand Prix České republiky",
+      "date": "2013-08-25"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Hertz British Grand Prix",
+      "date": "2013-09-01"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Aperol di San Marino e Della Riviera di Rimini",
+      "date": "2013-09-15"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Iveco de Aragón",
+      "date": "2013-09-29"
+    },
+    {
+      "round": 15,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Advance Malaysian Motorcycle Grand Prix",
+      "date": "2013-10-13"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Tissot Australian Grand Prix",
+      "date": "2013-10-20"
+    },
+    {
+      "round": 17,
+      "circuit_id": "motegi",
+      "gp_name": "AirAsia Grand Prix of Japan",
+      "date": "2013-10-27"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Generali de la Comunitat Valenciana",
+      "date": "2013-11-10"
+    }
+  ],
+  "2014": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Commercial Bank Grand Prix of Qatar",
+      "date": "2014-03-23"
+    },
+    {
+      "round": 2,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2014-04-13"
+    },
+    {
+      "round": 3,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Red Bull de la República Argentina",
+      "date": "2014-04-27"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio bwin de España",
+      "date": "2014-05-04"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Monster Energy Grand Prix de France",
+      "date": "2014-05-18"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia TIM",
+      "date": "2014-06-01"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2014-06-15"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Iveco Daily TT Assen",
+      "date": "2014-06-28"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "eni Motorrad Grand Prix Deutschland",
+      "date": "2014-07-13"
+    },
+    {
+      "round": 10,
+      "circuit_id": "indianapolis",
+      "gp_name": "Red Bull Indianapolis Grand Prix",
+      "date": "2014-08-10"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "bwin Grand Prix České republiky",
+      "date": "2014-08-17"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Hertz British Grand Prix",
+      "date": "2014-08-31"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio TIM di San Marino e Della Riviera di Rimini",
+      "date": "2014-09-14"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Movistar de Aragón",
+      "date": "2014-09-28"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2014-10-12"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Tissot Australian Grand Prix",
+      "date": "2014-10-19"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Advance Malaysian Motorcycle Grand Prix",
+      "date": "2014-10-26"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Generali de la Comunitat Valenciana",
+      "date": "2014-11-09"
+    }
+  ],
+  "2015": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Commercial Bank Grand Prix of Qatar",
+      "date": "2015-03-29"
+    },
+    {
+      "round": 2,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2015-04-12"
+    },
+    {
+      "round": 3,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Red Bull de la República Argentina",
+      "date": "2015-04-19"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio bwin de España",
+      "date": "2015-05-03"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Monster Energy Grand Prix de France",
+      "date": "2015-05-17"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia TIM",
+      "date": "2015-05-31"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2015-06-14"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2015-06-27"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "GoPro Motorrad Grand Prix Deutschland",
+      "date": "2015-07-12"
+    },
+    {
+      "round": 10,
+      "circuit_id": "indianapolis",
+      "gp_name": "Red Bull Indianapolis Grand Prix",
+      "date": "2015-08-09"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "bwin Grand Prix České republiky",
+      "date": "2015-08-16"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Octo British Grand Prix",
+      "date": "2015-08-30"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio TIM di San Marino e della Riviera di Rimini",
+      "date": "2015-09-13"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Movistar de Aragón",
+      "date": "2015-09-27"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2015-10-11"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Pramac Australian Motorcycle Grand Prix",
+      "date": "2015-10-18"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Malaysia Motorcycle Grand Prix",
+      "date": "2015-10-25"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2015-11-08"
+    }
+  ],
+  "2016": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Commercial Bank Grand Prix of Qatar",
+      "date": "2016-03-20"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Motul de la República Argentina",
+      "date": "2016-04-03"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2016-04-10"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2016-04-24"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Monster Energy Grand Prix de France",
+      "date": "2016-05-08"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia TIM",
+      "date": "2016-05-22"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2016-06-05"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2016-06-26"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "GoPro Motorrad Grand Prix Deutschland",
+      "date": "2016-07-17"
+    },
+    {
+      "round": 10,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "NeroGiardini Motorrad Grand Prix von Österreich",
+      "date": "2016-08-14"
+    },
+    {
+      "round": 11,
+      "circuit_id": "brno",
+      "gp_name": "HJC Helmets Grand Prix České republiky",
+      "date": "2016-08-21"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Octo British Grand Prix",
+      "date": "2016-09-04"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio TIM di San Marino e della Riviera di Rimini",
+      "date": "2016-09-11"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Movistar de Aragón",
+      "date": "2016-09-25"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2016-10-16"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Michelin Australian Motorcycle Grand Prix",
+      "date": "2016-10-23"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Malaysia Motorcycle Grand Prix",
+      "date": "2016-10-30"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2016-11-13"
+    }
+  ],
+  "2017": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Grand Prix of Qatar",
+      "date": "2017-03-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Motul de la República Argentina",
+      "date": "2017-04-09"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2017-04-23"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2017-05-07"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "HJC Helmets Grand Prix de France",
+      "date": "2017-05-21"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2017-06-04"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2017-06-11"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2017-06-25"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "GoPro Motorrad Grand Prix Deutschland",
+      "date": "2017-07-02"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Monster Energy Grand Prix České republiky",
+      "date": "2017-08-06"
+    },
+    {
+      "round": 11,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "NeroGiardini Motorrad Grand Prix von Österreich",
+      "date": "2017-08-13"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Octo British Grand Prix",
+      "date": "2017-08-27"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Tribul MasterCard di San Marino e della Riviera di Rimini",
+      "date": "2017-09-10"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Movistar de Aragón",
+      "date": "2017-09-24"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2017-10-15"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "Michelin Australian Motorcycle Grand Prix",
+      "date": "2017-10-22"
+    },
+    {
+      "round": 17,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Malaysia Motorcycle Grand Prix",
+      "date": "2017-10-29"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2017-11-12"
+    }
+  ],
+  "2018": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Grand Prix of Qatar",
+      "date": "2018-03-18"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Motul de la República Argentina",
+      "date": "2018-04-08"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2018-04-22"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2018-05-06"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "HJC Helmets Grand Prix de France",
+      "date": "2018-05-20"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2018-06-03"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2018-06-17"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2018-07-01"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "Pramac Motorrad Grand Prix Deutschland",
+      "date": "2018-07-15"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Monster Energy Grand Prix České republiky",
+      "date": "2018-08-05"
+    },
+    {
+      "round": 11,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Eyetime Motorrad Grand Prix von Österreich",
+      "date": "2018-08-12"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "GoPro British Grand Prix",
+      "date": "2018-08-26"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Octo di San Marino e della Riviera di Rimini",
+      "date": "2018-09-09"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Movistar de Aragón",
+      "date": "2018-09-23"
+    },
+    {
+      "round": 15,
+      "circuit_id": "buriram",
+      "gp_name": "PTT Thailand Grand Prix",
+      "date": "2018-10-07"
+    },
+    {
+      "round": 16,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2018-10-21"
+    },
+    {
+      "round": 17,
+      "circuit_id": "phillip-island",
+      "gp_name": "Michelin Australian Motorcycle Grand Prix",
+      "date": "2018-10-28"
+    },
+    {
+      "round": 18,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Malaysia Motorcycle Grand Prix",
+      "date": "2018-11-04"
+    },
+    {
+      "round": 19,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2018-11-18"
+    }
+  ],
+  "2019": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "VisitQatar Grand Prix",
+      "date": "2019-03-10"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Motul de la República Argentina",
+      "date": "2019-03-31"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of The Americas",
+      "date": "2019-04-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2019-05-05"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Shark Helmets Grand Prix de France",
+      "date": "2019-05-19"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2019-06-02"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2019-06-16"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2019-06-30"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "HJC Helmets Motorrad Grand Prix Deutschland",
+      "date": "2019-07-07"
+    },
+    {
+      "round": 10,
+      "circuit_id": "brno",
+      "gp_name": "Monster Energy Grand Prix České republiky",
+      "date": "2019-08-04"
+    },
+    {
+      "round": 11,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "myWorld Motorrad Grand Prix von Österreich",
+      "date": "2019-08-11"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "GoPro British Grand Prix",
+      "date": "2019-08-25"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Octo di San Marino e della Riviera di Rimini",
+      "date": "2019-09-15"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Michelin de Aragón",
+      "date": "2019-09-22"
+    },
+    {
+      "round": 15,
+      "circuit_id": "buriram",
+      "gp_name": "PTT Thailand Grand Prix",
+      "date": "2019-10-06"
+    },
+    {
+      "round": 16,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2019-10-20"
+    },
+    {
+      "round": 17,
+      "circuit_id": "phillip-island",
+      "gp_name": "Pramac Generac Australian Motorcycle Grand Prix",
+      "date": "2019-10-27"
+    },
+    {
+      "round": 18,
+      "circuit_id": "sepang",
+      "gp_name": "Shell Malaysia Motorcycle Grand Prix",
+      "date": "2019-11-03"
+    },
+    {
+      "round": 19,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2019-11-17"
+    }
+  ],
+  "2020": [
+    {
+      "round": 1,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2020-07-19"
+    },
+    {
+      "round": 2,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de Andalucía",
+      "date": "2020-07-26"
+    },
+    {
+      "round": 3,
+      "circuit_id": "brno",
+      "gp_name": "Monster Energy Grand Prix České republiky",
+      "date": "2020-08-09"
+    },
+    {
+      "round": 4,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "myWorld Motorrad Grand Prix von Österreich",
+      "date": "2020-08-16"
+    },
+    {
+      "round": 5,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "BMW M Grand Prix of Styria",
+      "date": "2020-08-23"
+    },
+    {
+      "round": 6,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Lenovo di San Marino e della Riviera di Rimini",
+      "date": "2020-09-13"
+    },
+    {
+      "round": 7,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Tissot dell'Emilia Romagna e della Riviera di Rimini",
+      "date": "2020-09-20"
+    },
+    {
+      "round": 8,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2020-09-27"
+    },
+    {
+      "round": 9,
+      "circuit_id": "bugatti",
+      "gp_name": "Shark Helmets Grand Prix de France",
+      "date": "2020-10-11"
+    },
+    {
+      "round": 10,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Michelin de Aragón",
+      "date": "2020-10-18"
+    },
+    {
+      "round": 11,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Liqui Moly de Teruel",
+      "date": "2020-10-25"
+    },
+    {
+      "round": 12,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio de Europa",
+      "date": "2020-11-08"
+    },
+    {
+      "round": 13,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2020-11-15"
+    },
+    {
+      "round": 14,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio MEO de Portugal",
+      "date": "2020-11-22"
+    }
+  ],
+  "2021": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Barwa Grand Prix of Qatar",
+      "date": "2021-03-28"
+    },
+    {
+      "round": 2,
+      "circuit_id": "lusail",
+      "gp_name": "Tissot Grand Prix of Doha",
+      "date": "2021-04-04"
+    },
+    {
+      "round": 3,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio 888 de Portugal",
+      "date": "2021-04-18"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2021-05-02"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Shark Grand Prix de France",
+      "date": "2021-05-16"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2021-05-30"
+    },
+    {
+      "round": 7,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2021-06-06"
+    },
+    {
+      "round": 8,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "date": "2021-06-20"
+    },
+    {
+      "round": 9,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2021-06-27"
+    },
+    {
+      "round": 10,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Michelin Grand Prix of Styria",
+      "date": "2021-08-08"
+    },
+    {
+      "round": 11,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Bitci Motorrad Grand Prix von Österreich",
+      "date": "2021-08-15"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Monster Energy British Grand Prix",
+      "date": "2021-08-29"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Tissot de Aragón",
+      "date": "2021-09-12"
+    },
+    {
+      "round": 14,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Octo di San Marino e della Riviera di Rimini",
+      "date": "2021-09-19"
+    },
+    {
+      "round": 15,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2021-10-03"
+    },
+    {
+      "round": 16,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Nolan del Made in Italy e dell'Emilia-Romagna",
+      "date": "2021-10-24"
+    },
+    {
+      "round": 17,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio Brembo do Algarve",
+      "date": "2021-11-07"
+    },
+    {
+      "round": 18,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2021-11-14"
+    }
+  ],
+  "2022": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Grand Prix of Qatar",
+      "date": "2022-03-06"
+    },
+    {
+      "round": 2,
+      "circuit_id": "mandalika",
+      "gp_name": "Pertamina Grand Prix of Indonesia",
+      "date": "2022-03-20"
+    },
+    {
+      "round": 3,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Michelin de la República Argentina",
+      "date": "2022-04-03"
+    },
+    {
+      "round": 4,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of The Americas",
+      "date": "2022-04-10"
+    },
+    {
+      "round": 5,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio Tissot de Portugal",
+      "date": "2022-04-24"
+    },
+    {
+      "round": 6,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Red Bull de España",
+      "date": "2022-05-01"
+    },
+    {
+      "round": 7,
+      "circuit_id": "bugatti",
+      "gp_name": "Shark Grand Prix de France",
+      "date": "2022-05-15"
+    },
+    {
+      "round": 8,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2022-05-29"
+    },
+    {
+      "round": 9,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2022-06-05"
+    },
+    {
+      "round": 10,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "date": "2022-06-19"
+    },
+    {
+      "round": 11,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2022-06-26"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Monster Energy British Grand Prix",
+      "date": "2022-08-07"
+    },
+    {
+      "round": 13,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "CryptoData Motorrad Grand Prix von Österreich",
+      "date": "2022-08-21"
+    },
+    {
+      "round": 14,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Gryfyn di San Marino e della Riviera di Rimini",
+      "date": "2022-09-04"
+    },
+    {
+      "round": 15,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio Animoca Brands de Aragón",
+      "date": "2022-09-18"
+    },
+    {
+      "round": 16,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2022-09-25"
+    },
+    {
+      "round": 17,
+      "circuit_id": "buriram",
+      "gp_name": "OR Thailand Grand Prix",
+      "date": "2022-10-02"
+    },
+    {
+      "round": 18,
+      "circuit_id": "phillip-island",
+      "gp_name": "Animoca Brands Australian Motorcycle Grand Prix",
+      "date": "2022-10-16"
+    },
+    {
+      "round": 19,
+      "circuit_id": "sepang",
+      "gp_name": "Petronas Grand Prix of Malaysia",
+      "date": "2022-10-23"
+    },
+    {
+      "round": 20,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2022-11-06"
+    }
+  ],
+  "2023": [
+    {
+      "round": 1,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio Tissot de Portugal",
+      "date": "2023-03-26"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio Michelin de la República Argentina",
+      "date": "2023-04-02"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2023-04-16"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio MotoGP Guru by Gryfyn de España",
+      "date": "2023-04-30"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Shark Grand Prix de France",
+      "date": "2023-05-14"
+    },
+    {
+      "round": 6,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Oakley",
+      "date": "2023-06-11"
+    },
+    {
+      "round": 7,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "date": "2023-06-18"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2023-06-25"
+    },
+    {
+      "round": 9,
+      "circuit_id": "silverstone",
+      "gp_name": "Monster Energy British Grand Prix",
+      "date": "2023-08-06"
+    },
+    {
+      "round": 10,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "CryptoData Motorrad Grand Prix von Österreich",
+      "date": "2023-08-20"
+    },
+    {
+      "round": 11,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2023-09-03"
+    },
+    {
+      "round": 12,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Red Bull di San Marino e della Riviera di Rimini",
+      "date": "2023-09-10"
+    },
+    {
+      "round": 13,
+      "circuit_id": "buddh",
+      "gp_name": "IndianOil Grand Prix of India",
+      "date": "2023-09-24"
+    },
+    {
+      "round": 14,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2023-10-01"
+    },
+    {
+      "round": 15,
+      "circuit_id": "mandalika",
+      "gp_name": "Pertamina Grand Prix of Indonesia",
+      "date": "2023-10-15"
+    },
+    {
+      "round": 16,
+      "circuit_id": "phillip-island",
+      "gp_name": "MotoGP Guru by Gryfyn Australian Motorcycle Grand Prix",
+      "date": "2023-10-21"
+    },
+    {
+      "round": 17,
+      "circuit_id": "buriram",
+      "gp_name": "OR Thailand Grand Prix",
+      "date": "2023-10-29"
+    },
+    {
+      "round": 18,
+      "circuit_id": "sepang",
+      "gp_name": "Petronas Grand Prix of Malaysia",
+      "date": "2023-11-12"
+    },
+    {
+      "round": 19,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar Airways Grand Prix of Qatar",
+      "date": "2023-11-19"
+    },
+    {
+      "round": 20,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Gran Premio Motul de la Comunitat Valenciana",
+      "date": "2023-11-26"
+    }
+  ],
+  "2024": [
+    {
+      "round": 1,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar Airways Grand Prix of Qatar",
+      "date": "2024-03-10"
+    },
+    {
+      "round": 2,
+      "circuit_id": "portimao",
+      "gp_name": "Grande Prémio Tissot de Portugal",
+      "date": "2024-03-24"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2024-04-14"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Gran Premio Estrella Galicia 0,0 de España",
+      "date": "2024-04-28"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Michelin Grand Prix de France",
+      "date": "2024-05-12"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Gran Premi Monster Energy de Catalunya",
+      "date": "2024-05-26"
+    },
+    {
+      "round": 7,
+      "circuit_id": "mugello",
+      "gp_name": "Gran Premio d'Italia Brembo",
+      "date": "2024-06-02"
+    },
+    {
+      "round": 8,
+      "circuit_id": "assen",
+      "gp_name": "Motul TT Assen",
+      "date": "2024-06-30"
+    },
+    {
+      "round": 9,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "date": "2024-07-07"
+    },
+    {
+      "round": 10,
+      "circuit_id": "silverstone",
+      "gp_name": "Monster Energy British Grand Prix",
+      "date": "2024-08-04"
+    },
+    {
+      "round": 11,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Motorrad Grand Prix von Österreich",
+      "date": "2024-08-18"
+    },
+    {
+      "round": 12,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Gran Premio GoPro de Aragón",
+      "date": "2024-09-01"
+    },
+    {
+      "round": 13,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Red Bull di San Marino e della Riviera di Rimini",
+      "date": "2024-09-08"
+    },
+    {
+      "round": 14,
+      "circuit_id": "misano",
+      "gp_name": "Gran Premio Pramac dell’Emilia-Romagna",
+      "date": "2024-09-22"
+    },
+    {
+      "round": 15,
+      "circuit_id": "mandalika",
+      "gp_name": "Pertamina Grand Prix of Indonesia",
+      "date": "2024-09-29"
+    },
+    {
+      "round": 16,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2024-10-06"
+    },
+    {
+      "round": 17,
+      "circuit_id": "phillip-island",
+      "gp_name": "Qatar Airways Australian Motorcycle Grand Prix",
+      "date": "2024-10-20"
+    },
+    {
+      "round": 18,
+      "circuit_id": "buriram",
+      "gp_name": "PT Grand Prix of Thailand",
+      "date": "2024-10-27"
+    },
+    {
+      "round": 19,
+      "circuit_id": "sepang",
+      "gp_name": "Petronas Grand Prix of Malaysia",
+      "date": "2024-11-03"
+    },
+    {
+      "round": 20,
+      "circuit_id": "catalunya",
+      "gp_name": "Motul Solidarity Grand Prix of Barcelona",
+      "date": "2024-11-17"
+    }
+  ],
+  "2025": [
+    {
+      "round": 1,
+      "circuit_id": "buriram",
+      "gp_name": "PT Grand Prix of Thailand",
+      "date": "2025-03-02"
+    },
+    {
+      "round": 2,
+      "circuit_id": "termas-de-rio-hondo",
+      "gp_name": "Gran Premio YPF Energía de Argentina",
+      "date": "2025-03-16"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the Americas",
+      "date": "2025-03-30"
+    },
+    {
+      "round": 4,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar Airways Grand Prix of Qatar",
+      "date": "2025-04-13"
+    },
+    {
+      "round": 5,
+      "circuit_id": "jerez",
+      "gp_name": "Estrella Galicia 0,0 Grand Prix of Spain",
+      "date": "2025-04-27"
+    },
+    {
+      "round": 6,
+      "circuit_id": "bugatti",
+      "gp_name": "Michelin Grand Prix of France",
+      "date": "2025-05-11"
+    },
+    {
+      "round": 7,
+      "circuit_id": "silverstone",
+      "gp_name": "Tissot Grand Prix of the United Kingdom",
+      "date": "2025-05-25"
+    },
+    {
+      "round": 8,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "GoPro Grand Prix of Aragon",
+      "date": "2025-06-08"
+    },
+    {
+      "round": 9,
+      "circuit_id": "mugello",
+      "gp_name": "Brembo Grand Prix of Italy",
+      "date": "2025-06-22"
+    },
+    {
+      "round": 10,
+      "circuit_id": "assen",
+      "gp_name": "Motul Grand Prix of the Netherlands",
+      "date": "2025-06-29"
+    },
+    {
+      "round": 11,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Grand Prix of Germany",
+      "date": "2025-07-13"
+    },
+    {
+      "round": 12,
+      "circuit_id": "brno",
+      "gp_name": "Tissot Grand Prix of Czechia",
+      "date": "2025-07-20"
+    },
+    {
+      "round": 13,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "bwin Grand Prix of Austria",
+      "date": "2025-08-17"
+    },
+    {
+      "round": 14,
+      "circuit_id": "balaton-park",
+      "gp_name": "Michelin Grand Prix of Hungary",
+      "date": "2025-08-24"
+    },
+    {
+      "round": 15,
+      "circuit_id": "catalunya",
+      "gp_name": "Monster Energy Grand Prix of Catalonia",
+      "date": "2025-09-07"
+    },
+    {
+      "round": 16,
+      "circuit_id": "misano",
+      "gp_name": "Red Bull Grand Prix of San Marino and the Rimini Riviera",
+      "date": "2025-09-14"
+    },
+    {
+      "round": 17,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2025-09-28"
+    },
+    {
+      "round": 18,
+      "circuit_id": "mandalika",
+      "gp_name": "Pertamina Grand Prix of Indonesia",
+      "date": "2025-10-05"
+    },
+    {
+      "round": 19,
+      "circuit_id": "phillip-island",
+      "gp_name": "Liqui Moly Australian Motorcycle Grand Prix",
+      "date": "2025-10-19"
+    },
+    {
+      "round": 20,
+      "circuit_id": "sepang",
+      "gp_name": "Petronas Grand Prix of Malaysia",
+      "date": "2025-10-26"
+    },
+    {
+      "round": 21,
+      "circuit_id": "portimao",
+      "gp_name": "Qatar Airways Grand Prix of Portugal",
+      "date": "2025-11-09"
+    },
+    {
+      "round": 22,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Motul Grand Prix of the Valencian Community",
+      "date": "2025-11-16"
+    }
+  ],
+  "2026": [
+    {
+      "round": 1,
+      "circuit_id": "buriram",
+      "gp_name": "PT Grand Prix of Thailand",
+      "date": "2026-03-01"
+    },
+    {
+      "round": 2,
+      "circuit_id": "goiania",
+      "gp_name": "Estrella Galicia 0,0 Grand Prix of Brazil",
+      "date": "2026-03-22"
+    },
+    {
+      "round": 3,
+      "circuit_id": "cota",
+      "gp_name": "Red Bull Grand Prix of the United States",
+      "date": "2026-03-29"
+    },
+    {
+      "round": 4,
+      "circuit_id": "jerez",
+      "gp_name": "Estrella Galicia 0,0 Grand Prix of Spain",
+      "date": "2026-04-26"
+    },
+    {
+      "round": 5,
+      "circuit_id": "bugatti",
+      "gp_name": "Michelin Grand Prix of France",
+      "date": "2026-05-10"
+    },
+    {
+      "round": 6,
+      "circuit_id": "catalunya",
+      "gp_name": "Monster Energy Grand Prix of Catalunya",
+      "date": "2026-05-17"
+    },
+    {
+      "round": 7,
+      "circuit_id": "mugello",
+      "gp_name": "Brembo Grand Prix of Italy",
+      "date": "2026-05-31"
+    },
+    {
+      "round": 8,
+      "circuit_id": "balaton-park",
+      "gp_name": "Grand Prix of Hungary",
+      "date": "2026-06-07"
+    },
+    {
+      "round": 9,
+      "circuit_id": "brno",
+      "gp_name": "Monster Energy Grand Prix of Czechia",
+      "date": "2026-06-21"
+    },
+    {
+      "round": 10,
+      "circuit_id": "assen",
+      "gp_name": "Tissot Grand Prix of the Netherlands",
+      "date": "2026-06-28"
+    },
+    {
+      "round": 11,
+      "circuit_id": "sachsenring",
+      "gp_name": "Liqui Moly Grand Prix of Germany",
+      "date": "2026-07-12"
+    },
+    {
+      "round": 12,
+      "circuit_id": "silverstone",
+      "gp_name": "Qatar Airways Grand Prix of Great Britain",
+      "date": "2026-08-09"
+    },
+    {
+      "round": 13,
+      "circuit_id": "motorland-aragon",
+      "gp_name": "Michelin Grand Prix of Aragon",
+      "date": "2026-08-30"
+    },
+    {
+      "round": 14,
+      "circuit_id": "misano",
+      "gp_name": "Red Bull Grand Prix of San Marino and the Rimini Riviera",
+      "date": "2026-09-13"
+    },
+    {
+      "round": 15,
+      "circuit_id": "red-bull-ring",
+      "gp_name": "Grand Prix of Austria",
+      "date": "2026-09-20"
+    },
+    {
+      "round": 16,
+      "circuit_id": "motegi",
+      "gp_name": "Motul Grand Prix of Japan",
+      "date": "2026-10-04"
+    },
+    {
+      "round": 17,
+      "circuit_id": "mandalika",
+      "gp_name": "Pertamina Grand Prix of Indonesia",
+      "date": "2026-10-11"
+    },
+    {
+      "round": 18,
+      "circuit_id": "phillip-island",
+      "gp_name": "Grand Prix of Australia",
+      "date": "2026-10-25"
+    },
+    {
+      "round": 19,
+      "circuit_id": "sepang",
+      "gp_name": "Petronas Grand Prix of Malaysia",
+      "date": "2026-11-01"
+    },
+    {
+      "round": 20,
+      "circuit_id": "lusail",
+      "gp_name": "Qatar Airways Grand Prix of Qatar",
+      "date": "2026-11-08"
+    },
+    {
+      "round": 21,
+      "circuit_id": "portimao",
+      "gp_name": "Repsol Grand Prix of Portugal",
+      "date": "2026-11-22"
+    },
+    {
+      "round": 22,
+      "circuit_id": "ricardo-tormo",
+      "gp_name": "Motul Grand Prix of Valencia",
+      "date": "2026-11-29"
+    }
+  ]
+}
