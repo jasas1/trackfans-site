@@ -545,7 +545,7 @@ function lapRecordHtml(track) {
 function elevationLink(track) {
   if (!track.elev) return "";
   const href = `./track3d.html?id=${encodeURIComponent(track.id)}`;
-  return `<a class="disabled-action" href="${href}" role="button" aria-disabled="true" data-disabled-until="r11">View 3D elevation (soon)</a>`;
+  return `<a class="btn-3d" href="${href}">View 3D elevation</a>`;
 }
 
 function cornerChipLabel(corner) {

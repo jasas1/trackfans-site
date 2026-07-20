@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trackfans 3D elevation viewer</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./track3d.css">
+  <script src="./tracks.js" defer></script>
+  <script src="./three.min.js" defer></script>
+  <script src="./track3d.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#viewer">Skip to viewer</a>
+  <header class="track3d-head">
+    <a class="home-link" href="./index.html">trackfans</a>
+    <div>
+      <p class="eyebrow">3D elevation blueprint</p>
+      <h1 id="track-name">Loading circuit</h1>
+      <p id="track-meta" class="track-meta">Fetching outline and elevation data...</p>
+    </div>
+  </header>
+
+  <main id="viewer" class="track3d-shell">
+    <section class="stage-wrap" aria-labelledby="track-name">
+      <div id="canvas-wrap" class="canvas-wrap">
+        <p id="status" class="status">Loading 3D elevation ribbon...</p>
+      </div>
+      <p id="control-hint" class="sr-only">Drag to orbit, wheel or pinch to zoom, arrow keys rotate, and press R to reset the isometric view.</p>
+    </section>
+
+    <aside id="legend" class="legend" aria-live="polite">
+      <div class="legend__top">
+        <h2>Elevation</h2>
+        <button id="help-toggle" class="help-toggle" type="button" aria-expanded="false" aria-controls="help-panel">?</button>
+      </div>
+      <dl class="legend-grid">
+        <div><dt>Min</dt><dd id="elev-min">--</dd></div>
+        <div><dt>Max</dt><dd id="elev-max">--</dd></div>
+        <div><dt>Swing</dt><dd id="elev-swing">--</dd></div>
+        <div><dt>Vertical</dt><dd>x3</dd></div>
+      </dl>
+      <p class="sources">Data sources: OpenTopoData SRTM / OSM</p>
+      <div id="help-panel" class="help-panel" hidden>
+        <p>Drag to orbit. Wheel or pinch to zoom. Arrow keys rotate. Press R to reset.</p>
+      </div>
+    </aside>
+  </main>
+</body>
+</html>
