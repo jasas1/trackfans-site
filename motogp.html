@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-series="motogp">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="dark">
-    <title>trackfans v0.2 alpha | Formula 1 World Championship Circuits 1950-2026</title>
+    <title>trackfans v0.2 alpha | Grand Prix Motorcycle Racing Circuits 1949-2026</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Libre+Franklin:wght@700;900&display=swap" rel="stylesheet">
@@ -16,39 +16,29 @@
     <nav class="series-nav" aria-label="Racing series">
       <div class="series-nav__inner">
         <a class="series-nav__brand" href="./index.html">trackfans</a>
-        <a class="series-nav__link" href="./index.html" aria-current="page">Formula 1</a>
-        <a class="series-nav__link" href="./motogp.html">MotoGP</a>
+        <a class="series-nav__link" href="./index.html">Formula 1</a>
+        <a class="series-nav__link" href="./motogp.html" aria-current="page">MotoGP</a>
       </div>
     </nav>
-
-    <div class="ticker" id="race-ticker" role="status" aria-live="off" hidden>
-      <div class="ticker__inner">
-        <span class="ticker__dot" aria-hidden="true"></span>
-        <span class="ticker__text" id="ticker-text"></span>
-        <button class="ticker__pause" type="button" id="ticker-pause" aria-pressed="false" aria-label="Pause race ticker">❚❚</button>
-        <button class="ticker__close" type="button" id="ticker-dismiss" aria-label="Dismiss race ticker">×</button>
-      </div>
-    </div>
-    <span id="ticker-announcer" class="sr-only" aria-live="polite" aria-atomic="true"></span>
 
     <header class="hero">
       <div class="hero__grid" aria-hidden="true"></div>
       <div class="hero__content">
-        <p class="brand">trackfans <span class="version-badge">v0.2 alpha</span></p>
-        <h1>Every Formula 1 World Championship circuit, from the first lap at Silverstone to the last light in Vegas.</h1>
-        <p class="tagline">A sortable, source-linked atlas of speed, distance, age, corners, altitude, acreage, records, and racing character from 1950 through 2026.</p>
+        <p class="brand">trackfans <span class="series-chip">MotoGP</span> <span class="version-badge">v0.2 alpha</span></p>
+        <h1>Every Grand Prix motorcycle racing circuit, from the Mountain Course to Mandalika.</h1>
+        <p class="tagline">A sortable, source-linked atlas of speed, distance, age, corners, altitude, acreage, records, and racing character for the premier class from 1949 through 2026.</p>
         <dl class="hero-stats" aria-label="Collection statistics">
           <div>
-            <dt id="stat-circuits">78</dt>
+            <dt id="stat-circuits">75</dt>
             <dd>circuits</dd>
           </div>
           <div>
-            <dt id="stat-countries">34</dt>
+            <dt id="stat-countries">31</dt>
             <dd>countries</dd>
           </div>
           <div>
-            <dt>1950-2026</dt>
-            <dd>championship span</dd>
+            <dt>1949-2026</dt>
+            <dd>premier-class span</dd>
           </div>
         </dl>
       </div>
@@ -78,7 +68,7 @@
         <div class="table-head">
           <div>
             <h2 id="table-title">The circuits</h2>
-            <p id="result-count" aria-live="polite">78 circuits shown</p>
+            <p id="result-count" aria-live="polite">75 circuits shown</p>
           </div>
         </div>
         <div class="table-scroll">
@@ -111,10 +101,9 @@
       </article>
     </div>
 
-    <script src="./tracks.js"></script>
+    <script src="./tracks-motogp.js"></script>
     <script src="./world.js"></script>
-    <script src="./seasons.js"></script>
-    <script src="./ticker.js" defer></script>
+    <script src="./seasons-motogp.js"></script>
     <!-- GoatCounter (self-hosted count.js, ISC): privacy-friendly, no cookies -->
     <script data-goatcounter="https://trackfans.goatcounter.com/count" async src="./count.js"></script>
     <script src="./app.js"></script>

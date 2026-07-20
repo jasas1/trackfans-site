@@ -13,6 +13,7 @@ from __future__ import annotations
 import json
 import math
 import re
+import argparse
 from pathlib import Path
 
 
@@ -42,6 +43,7 @@ ELEV_DIR = SITE_DIR / "elevation"
 OUT = ROOT / "tracks.js"
 SEASONS_JSON = SITE_DIR / "seasons.json"
 SEASONS_OUT = ROOT / "seasons.js"
+SERIES = "f1"
 
 MAX_OVERLAY_POINTS = 200
 
@@ -59,6 +61,8 @@ FLAGS = {
     "Germany": "🇩🇪",
     "Hungary": "🇭🇺",
     "India": "🇮🇳",
+    "Indonesia": "🇮🇩",
+    "Isle of Man": "🇮🇲",
     "Italy": "🇮🇹",
     "Japan": "🇯🇵",
     "Malaysia": "🇲🇾",
@@ -76,11 +80,45 @@ FLAGS = {
     "Spain": "🇪🇸",
     "Sweden": "🇸🇪",
     "Switzerland": "🇨🇭",
+    "Thailand": "🇹🇭",
     "Turkey": "🇹🇷",
     "United Arab Emirates": "🇦🇪",
     "United Kingdom": "🇬🇧",
     "United States": "🇺🇸",
+    "Venezuela": "🇻🇪",
 }
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Build trackfans data bundles for Formula 1 or MotoGP."
+    )
+    parser.add_argument(
+        "--series",
+        choices=("f1", "motogp"),
+        default="f1",
+        help="Series bundle to build. Defaults to Formula 1.",
+    )
+    return parser.parse_args()
+
+
+def configure_series(series: str) -> None:
+    global DATA_DIR, CORNERS_DIR, MEDIA_DIR, OUT, SEASONS_JSON, SEASONS_OUT, SERIES
+
+    SERIES = series
+    if series == "motogp":
+        DATA_DIR = REPO / "data-motogp"
+        OUT = ROOT / "tracks-motogp.js"
+        SEASONS_JSON = SITE_DIR / "seasons-motogp.json"
+        SEASONS_OUT = ROOT / "seasons-motogp.js"
+    else:
+        DATA_DIR = REPO / "data"
+        OUT = ROOT / "tracks.js"
+        SEASONS_JSON = SITE_DIR / "seasons.json"
+        SEASONS_OUT = ROOT / "seasons.js"
+
+    CORNERS_DIR = DATA_DIR / "corners"
+    MEDIA_DIR = DATA_DIR / "media"
 
 
 def read_outline_path(track_id: str) -> str | None:
@@ -251,6 +289,9 @@ def write_seasons() -> int:
 
 
 def main() -> None:
+    args = parse_args()
+    configure_series(args.series)
+
     records = []
     outline_files = []
     for path in sorted(DATA_DIR.glob("*.json")):
@@ -270,13 +311,19 @@ def main() -> None:
         corners_data = read_corners_data(record["id"])
         if corners_data:
             record["corners_data"] = corners_data
+        elif SERIES == "motogp":
+            record["corners_data"] = None
         media = read_media(record["id"])
         if media:
             record["media"] = media
+        elif SERIES == "motogp":
+            record["media"] = None
         record["elev"] = has_elevation(record["id"])
         overlay = read_overlay_points(record["id"])
         if overlay:
             record["overlay_pts"] = overlay
+        elif SERIES == "motogp":
+            record["overlay_pts"] = None
 
         records.append(record)
 
