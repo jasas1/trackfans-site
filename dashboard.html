@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>Belgian GP Race Weekend — trackfans</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Libre+Franklin:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+    <style>
+      html,body{margin:0}
+      body{background:var(--bg);color:var(--ink);font-family:var(--font-sans)}
+      a{color:var(--red)}a:hover{color:var(--gold)}
+      .page{max-width:1200px;margin:0 auto;padding:0 1.5rem 4rem}
+      .masthead{display:flex;align-items:flex-end;justify-content:space-between;gap:1.5rem;flex-wrap:wrap;padding:2rem 0 1.5rem;border-bottom:1px solid var(--line)}
+      .masthead__eyebrow{font-family:var(--font-sans);font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--subtle);margin:0 0 .5rem}
+      .masthead h1{font-family:var(--font-display);font-weight:800;font-size:clamp(2rem,5vw,3.4rem);line-height:.98;letter-spacing:-.01em;margin:0}
+      .masthead__sub{display:flex;align-items:center;gap:.7rem;margin-top:.7rem;color:var(--muted);font-size:.95rem}
+      .masthead__meta{text-align:right;color:var(--muted);font-size:.85rem;line-height:1.7}
+      .masthead__meta strong{color:var(--ink);font-family:var(--font-display)}
+      .grid-2{display:grid;grid-template-columns:1.35fr 1fr;gap:1.25rem;margin-top:1.75rem}
+      @media (max-width:860px){.grid-2{grid-template-columns:1fr}}
+      .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:1.25rem 1.35rem;box-shadow:var(--shadow)}
+      .panel__label{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--subtle);margin:0 0 1rem}
+      .track-panel{display:flex;align-items:center;justify-content:center;min-height:340px}
+      .section{margin-top:2rem}
+      .section__head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin:0 0 1rem}
+      .section__head h2{font-family:var(--font-display);font-weight:700;font-size:1.15rem;letter-spacing:.01em;margin:0}
+      .section__head span{font-size:.78rem;color:var(--subtle);letter-spacing:.06em;text-transform:uppercase}
+    </style>
+  </head>
+  <body>
+    <a class="skip-link" href="#root">Skip to content</a>
+
+    <nav class="series-nav" aria-label="Racing series">
+      <div class="series-nav__inner">
+        <a class="series-nav__brand" href="./index.html">trackfans</a>
+        <a class="series-nav__link" href="./index.html">Formula 1</a>
+        <span class="series-nav__link" aria-current="page">Belgian GP dashboard</span>
+      </div>
+    </nav>
+
+    <div id="root" tabindex="-1"></div>
+
+    <script src="./vendor/react.production.min.js"></script>
+    <script src="./vendor/react-dom.production.min.js"></script>
+    <script src="./world.js"></script>
+    <script src="./dashboard-data.js"></script>
+    <script src="./trackfans-ui.js"></script>
+    <script src="./dashboard.js"></script>
+    <!-- GoatCounter (self-hosted count.js, ISC): privacy-friendly, no cookies -->
+    <script data-goatcounter="https://trackfans.goatcounter.com/count" async src="./count.js"></script>
+  </body>
+</html>
